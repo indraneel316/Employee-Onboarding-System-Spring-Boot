@@ -1,0 +1,240 @@
+2021-08-17 02:02:17 [http-nio-9192-exec-3] DEBUG c.l.e.service.LoginService -
+                login details returned[443, 3, INCOMPLETE, new user]
+2021-08-17 02:02:17 [http-nio-9192-exec-4] DEBUG c.l.e.service.HrService -
+                Employees Data Fetched
+2021-08-17 02:02:51 [http-nio-9192-exec-7] DEBUG c.l.e.service.LoginService -
+                login details returned[467, 1, PENDING, updated user]
+2021-08-17 02:07:32 [http-nio-9192-exec-10] DEBUG c.l.e.service.MailSenderService -
+                Mail Sent
+2021-08-17 02:07:32 [http-nio-9192-exec-10] DEBUG c.l.e.service.HrService -
+                Status Updated
+2021-08-17 02:09:27 [http-nio-9192-exec-3] DEBUG c.l.e.service.LoginService -
+                login details returned[467, 1, COMPLETED, updated user]
+2021-08-17 02:09:44 [http-nio-9192-exec-4] DEBUG c.l.e.service.LoginService -
+                login details returned[443, 3, INCOMPLETE, new user]
+2021-08-17 02:09:44 [http-nio-9192-exec-5] DEBUG c.l.e.service.HrService -
+                Employees Data Fetched
+2021-08-17 02:10:02 [http-nio-9192-exec-7] DEBUG c.l.e.service.LoginService -
+                login details returned[459, 1, PENDING, updated user]
+2021-08-17 02:10:34 [http-nio-9192-exec-8] DEBUG c.l.e.service.MailSenderService -
+                Mail Sent
+2021-08-17 02:10:34 [http-nio-9192-exec-8] DEBUG c.l.e.service.HrService -
+                Status Updated
+2021-08-17 02:13:27 [main] INFO  c.l.e.OnboardingApplication -
+                Starting OnboardingApplication using Java 1.8.0_291 on LT-NB-163 with PID 25724 (C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy\target\classes started by indraneel.suribhotla in C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy)
+2021-08-17 02:13:27 [main] DEBUG c.l.e.OnboardingApplication -
+                Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-17 02:13:27 [main] INFO  c.l.e.OnboardingApplication -
+                No active profile set, falling back to default profiles: default
+2021-08-17 02:14:10 [main] INFO  c.l.e.OnboardingApplication -
+                Starting OnboardingApplication using Java 1.8.0_291 on LT-NB-163 with PID 11920 (C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy\target\classes started by indraneel.suribhotla in C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy)
+2021-08-17 02:14:10 [main] DEBUG c.l.e.OnboardingApplication -
+                Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-17 02:14:10 [main] INFO  c.l.e.OnboardingApplication -
+                No active profile set, falling back to default profiles: default
+2021-08-17 02:14:46 [main] INFO  c.l.e.OnboardingApplication -
+                Starting OnboardingApplication using Java 1.8.0_291 on LT-NB-163 with PID 25596 (C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy\target\classes started by indraneel.suribhotla in C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy)
+2021-08-17 02:14:46 [main] DEBUG c.l.e.OnboardingApplication -
+                Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-17 02:14:46 [main] INFO  c.l.e.OnboardingApplication -
+                No active profile set, falling back to default profiles: default
+2021-08-17 02:16:10 [main] INFO  c.l.e.OnboardingApplication -
+                Starting OnboardingApplication using Java 1.8.0_291 on LT-NB-163 with PID 20432 (C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy\target\classes started by indraneel.suribhotla in C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy)
+2021-08-17 02:16:10 [main] DEBUG c.l.e.OnboardingApplication -
+                Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-17 02:16:10 [main] INFO  c.l.e.OnboardingApplication -
+                No active profile set, falling back to default profiles: default
+2021-08-17 02:17:02 [main] INFO  c.l.e.OnboardingApplication -
+                Starting OnboardingApplication using Java 1.8.0_291 on LT-NB-163 with PID 5124 (C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy\target\classes started by indraneel.suribhotla in C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy)
+2021-08-17 02:17:02 [main] DEBUG c.l.e.OnboardingApplication -
+                Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-17 02:17:02 [main] INFO  c.l.e.OnboardingApplication -
+                The following profiles are active: @spring.profiles.active@
+2021-08-17 02:18:17 [main] INFO  c.l.e.OnboardingApplication -
+                Starting OnboardingApplication using Java 1.8.0_291 on LT-NB-163 with PID 19672 (C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy\target\classes started by indraneel.suribhotla in C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy)
+2021-08-17 02:18:17 [main] DEBUG c.l.e.OnboardingApplication -
+                Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-17 02:18:17 [main] INFO  c.l.e.OnboardingApplication -
+                No active profile set, falling back to default profiles: default
+2021-08-17 02:20:26 [main] INFO  c.l.e.OnboardingApplication -
+                Starting OnboardingApplication using Java 1.8.0_291 on LT-NB-163 with PID 20584 (C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy\target\classes started by indraneel.suribhotla in C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy)
+2021-08-17 02:20:26 [main] DEBUG c.l.e.OnboardingApplication -
+                Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-17 02:20:26 [main] INFO  c.l.e.OnboardingApplication -
+                No active profile set, falling back to default profiles: default
+2021-08-17 02:23:13 [main] INFO  c.l.e.OnboardingApplication -
+                Starting OnboardingApplication using Java 1.8.0_291 on LT-NB-163 with PID 26564 (C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy\target\classes started by indraneel.suribhotla in C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy)
+2021-08-17 02:23:13 [main] DEBUG c.l.e.OnboardingApplication -
+                Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-17 02:23:13 [main] INFO  c.l.e.OnboardingApplication -
+                No active profile set, falling back to default profiles: default
+2021-08-17 02:23:47 [main] INFO  c.l.e.OnboardingApplication -
+                Starting OnboardingApplication using Java 1.8.0_291 on LT-NB-163 with PID 12648 (C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy\target\classes started by indraneel.suribhotla in C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy)
+2021-08-17 02:23:47 [main] DEBUG c.l.e.OnboardingApplication -
+                Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-17 02:23:47 [main] INFO  c.l.e.OnboardingApplication -
+                No active profile set, falling back to default profiles: default
+2021-08-17 02:24:14 [main] INFO  c.l.e.OnboardingApplication -
+                Starting OnboardingApplication using Java 1.8.0_291 on LT-NB-163 with PID 7088 (C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy\target\classes started by indraneel.suribhotla in C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy)
+2021-08-17 02:24:14 [main] DEBUG c.l.e.OnboardingApplication -
+                Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-17 02:24:14 [main] INFO  c.l.e.OnboardingApplication -
+                No active profile set, falling back to default profiles: default
+2021-08-17 02:30:36 [main] INFO  c.l.e.OnboardingApplication -
+                Starting OnboardingApplication using Java 1.8.0_291 on LT-NB-163 with PID 21612 (C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy\target\classes started by indraneel.suribhotla in C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy)
+2021-08-17 02:30:36 [main] DEBUG c.l.e.OnboardingApplication -
+                Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-17 02:30:36 [main] INFO  c.l.e.OnboardingApplication -
+                No active profile set, falling back to default profiles: default
+2021-08-17 02:33:11 [main] INFO  c.l.e.OnboardingApplication -
+                Starting OnboardingApplication using Java 1.8.0_291 on LT-NB-163 with PID 15668 (C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy\target\classes started by indraneel.suribhotla in C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy)
+2021-08-17 02:33:11 [main] DEBUG c.l.e.OnboardingApplication -
+                Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-17 02:33:11 [main] INFO  c.l.e.OnboardingApplication -
+                No active profile set, falling back to default profiles: default
+2021-08-17 02:33:19 [main] INFO  c.l.e.OnboardingApplication -
+                Started OnboardingApplication in 9.029 seconds (JVM running for 9.883)
+2021-08-17 02:35:41 [main] INFO  c.l.e.OnboardingApplication -
+                Starting OnboardingApplication using Java 1.8.0_291 on LT-NB-163 with PID 2852 (C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy\target\classes started by indraneel.suribhotla in C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy)
+2021-08-17 02:35:41 [main] DEBUG c.l.e.OnboardingApplication -
+                Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-17 02:35:41 [main] INFO  c.l.e.OnboardingApplication -
+                No active profile set, falling back to default profiles: default
+2021-08-17 02:35:48 [main] INFO  c.l.e.OnboardingApplication -
+                Started OnboardingApplication in 7.455 seconds (JVM running for 8.276)
+2021-08-17 02:36:14 [http-nio-9192-exec-2] DEBUG c.l.e.service.LoginService -
+                login details returned[475, 1, PENDING, updated user]
+2021-08-17 02:36:26 [http-nio-9192-exec-3] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID475
+2021-08-17 02:36:58 [http-nio-9192-exec-5] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID475
+2021-08-17 02:38:31 [http-nio-9192-exec-8] DEBUG c.l.e.service.LoginService -
+                login details returned[443, 3, INCOMPLETE, new user]
+2021-08-17 02:38:31 [http-nio-9192-exec-9] DEBUG c.l.e.service.HrService -
+                Employees Data Fetched
+2021-08-17 02:40:56 [main] INFO  c.l.e.OnboardingApplication -
+                Starting OnboardingApplication using Java 1.8.0_291 on LT-NB-163 with PID 23808 (C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy\target\classes started by indraneel.suribhotla in C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy)
+2021-08-17 02:40:56 [main] DEBUG c.l.e.OnboardingApplication -
+                Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-17 02:40:56 [main] INFO  c.l.e.OnboardingApplication -
+                No active profile set, falling back to default profiles: default
+2021-08-17 02:41:03 [main] INFO  c.l.e.OnboardingApplication -
+                Started OnboardingApplication in 7.892 seconds (JVM running for 8.62)
+2021-08-17 02:41:12 [http-nio-9192-exec-1] DEBUG c.l.e.service.HrService -
+                Employees Data Fetched
+2021-08-17 02:41:21 [http-nio-9192-exec-4] DEBUG c.l.e.service.LoginService -
+                login details returned[475, 1, PENDING, updated user]
+2021-08-17 02:41:38 [http-nio-9192-exec-5] DEBUG c.l.e.service.MailSenderService -
+                Mail Sent
+2021-08-17 02:41:38 [http-nio-9192-exec-5] DEBUG c.l.e.service.HrService -
+                Status Updated
+2021-08-17 02:41:38 [http-nio-9192-exec-5] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID475
+2021-08-17 02:42:26 [http-nio-9192-exec-6] DEBUG c.l.e.service.HrService -
+                Employees Data Fetched
+2021-08-17 15:35:21 [main] INFO  c.l.e.OnboardingApplication -
+                Starting OnboardingApplication using Java 1.8.0_291 on LT-NB-163 with PID 23840 (C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy\target\classes started by indraneel.suribhotla in C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy)
+2021-08-17 15:35:21 [main] DEBUG c.l.e.OnboardingApplication -
+                Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-17 15:35:21 [main] INFO  c.l.e.OnboardingApplication -
+                No active profile set, falling back to default profiles: default
+2021-08-17 15:37:00 [main] INFO  c.l.e.OnboardingApplication -
+                Starting OnboardingApplication using Java 1.8.0_291 on LT-NB-163 with PID 16584 (C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy\target\classes started by indraneel.suribhotla in C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy)
+2021-08-17 15:37:00 [main] DEBUG c.l.e.OnboardingApplication -
+                Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-17 15:37:00 [main] INFO  c.l.e.OnboardingApplication -
+                No active profile set, falling back to default profiles: default
+2021-08-17 15:37:08 [main] INFO  c.l.e.OnboardingApplication -
+                Started OnboardingApplication in 7.997 seconds (JVM running for 9.07)
+2021-08-17 15:38:27 [http-nio-9192-exec-1] DEBUG c.l.e.service.LoginService -
+                login details returned[443, 3, INCOMPLETE, new user]
+2021-08-17 15:38:27 [http-nio-9192-exec-3] DEBUG c.l.e.service.HrService -
+                Employees Data Fetched
+2021-08-17 15:38:45 [http-nio-9192-exec-6] DEBUG c.l.e.service.LoginService -
+                login details returned[451, 1, PENDING, updated user]
+2021-08-17 15:39:08 [http-nio-9192-exec-8] DEBUG c.l.e.service.MailSenderService -
+                Mail Sent
+2021-08-17 15:39:08 [http-nio-9192-exec-8] DEBUG c.l.e.service.HrService -
+                Status Updated
+2021-08-17 15:39:08 [http-nio-9192-exec-8] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID451
+2021-08-17 15:42:22 [http-nio-9192-exec-10] DEBUG c.l.e.service.LoginService -
+                login details returned[445, 1, PENDING, updated user]
+2021-08-17 15:42:57 [http-nio-9192-exec-2] DEBUG c.l.e.service.MailSenderService -
+                Mail Sent
+2021-08-17 15:42:57 [http-nio-9192-exec-2] DEBUG c.l.e.service.HrService -
+                Status Updated
+2021-08-17 15:42:57 [http-nio-9192-exec-2] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID445
+2021-08-17 15:43:54 [http-nio-9192-exec-1] DEBUG c.l.e.service.LoginService -
+                login details returned[443, 3, INCOMPLETE, new user]
+2021-08-17 15:43:54 [http-nio-9192-exec-3] DEBUG c.l.e.service.HrService -
+                Employees Data Fetched
+2021-08-17 15:44:45 [main] INFO  c.l.e.OnboardingApplication -
+                Starting OnboardingApplication using Java 1.8.0_291 on LT-NB-163 with PID 24444 (C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy\target\classes started by indraneel.suribhotla in C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy)
+2021-08-17 15:44:45 [main] DEBUG c.l.e.OnboardingApplication -
+                Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-17 15:44:45 [main] INFO  c.l.e.OnboardingApplication -
+                No active profile set, falling back to default profiles: default
+2021-08-17 15:44:52 [main] INFO  c.l.e.OnboardingApplication -
+                Started OnboardingApplication in 7.854 seconds (JVM running for 8.603)
+2021-08-17 15:45:33 [http-nio-9192-exec-1] DEBUG c.l.e.service.LoginService -
+                login details returned[497, 1, PENDING, updated user]
+2021-08-17 15:45:51 [http-nio-9192-exec-3] ERROR c.l.e.service.HrService -
+                Employee ID97is not valid for status update
+2021-08-17 15:46:09 [http-nio-9192-exec-5] DEBUG c.l.e.service.MailSenderService -
+                Mail Sent
+2021-08-17 15:46:09 [http-nio-9192-exec-5] DEBUG c.l.e.service.HrService -
+                Status Updated
+2021-08-17 15:46:09 [http-nio-9192-exec-5] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID497
+2021-08-17 23:10:34 [main] INFO  c.l.e.OnboardingApplication -
+                Starting OnboardingApplication using Java 1.8.0_291 on LT-NB-163 with PID 21360 (C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy\target\classes started by indraneel.suribhotla in C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy)
+2021-08-17 23:10:34 [main] DEBUG c.l.e.OnboardingApplication -
+                Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-17 23:10:34 [main] INFO  c.l.e.OnboardingApplication -
+                No active profile set, falling back to default profiles: default
+2021-08-17 23:10:42 [main] INFO  c.l.e.OnboardingApplication -
+                Started OnboardingApplication in 9.175 seconds (JVM running for 11.089)
+2021-08-17 23:45:27 [main] ERROR c.l.e.service.HrService -
+                email id null while checking employee d325cbf9-25c3-471b-ac92-cb0c520ae2a6
+2021-08-17 23:45:27 [main] ERROR c.l.e.service.HrService -
+                Role is Null
+2021-08-17 23:45:27 [main] DEBUG c.l.e.service.HrService -
+                Role ID Retrieved1
+2021-08-17 23:45:27 [main] ERROR c.l.e.s.EmployeeDemographicsService -
+                Error : Employee with ID 665caa1e-9359-4d07-a6a0-825e34b0503d 33 is invalid
+2021-08-17 23:45:27 [main] DEBUG c.l.e.service.HrService -
+                Employees Data Fetched 7fbacd92-9a13-4675-90df-19032adcc835
+2021-08-17 23:45:27 [main] DEBUG c.l.e.service.HrService -
+                Employee Demographics Saved in Repository 9ab7a4ca-4643-46cd-a102-dbd303b2cc48
+2021-08-17 23:45:27 [main] ERROR c.l.e.service.HrService -
+                Employee With this Email Id is not found 9ab7a4ca-4643-46cd-a102-dbd303b2cc48
+2021-08-17 23:45:27 [main] ERROR c.l.e.s.EmployeeDemographicsService -
+                Employee With ID 30Cannot be accessed 8aa98786-9315-46fc-b34c-350d16115e78
+2021-08-17 23:45:27 [main] ERROR c.l.e.service.LoginService -
+                Employee With email id indraneel316@gmail.com cant be accessed 23436226-f1af-4d78-8f4a-b668d91be387
+2021-08-17 23:45:27 [main] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee saved a73989e8-791e-4adf-bd58-b590852a4785 EmployeeDemographics(employeeId=33, employeeCode=LIS2100, firstName=Indraneel, lastName=S, dob=30/03/2000, bloodGroup=A1+ve, aadharNumber=84934893878, fatherName=XYZ, motherName=XYZZ, emailId=indraneel316@gmail.com, phoneNumber=5738495738454, sslc=10.0, hsc=7.0, ug=7.0, role=1, gender=Male, emergencyContactName=Neel, emergencyContactRelation=Friend, emergencyContactPhoneNumber=94384554353, password=null, createdAt=null, currentStatus=INCOMPLETE, rejectReason=Not Rejected Yet, addressList=[Address(addressId=1, employeeCode=LIS2100, type=Present, flatName=fjdskkj, streetName=fjdshfds, area=fsdfkjdsf, state=Chennai, country=India, city=Chennai, pinCode=60854, mapCoordinates=kfjsdkf), Address(addressId=1, employeeCode=LIS2100, type=Permanent, flatName=fjdskkj, streetName=fjdshfds, area=fsdfkjdsf, state=Chennai, country=India, city=Chennai, pinCode=60854, mapCoordinates=kfjsdkf)])
+2021-08-17 23:45:27 [main] DEBUG c.l.e.service.HrService -
+                Employees Data Fetched 7ee53901-c180-451b-99f0-607cd29721fa
+2021-08-17 23:45:27 [main] ERROR c.l.e.service.HrService -
+                Employee ID33is not valid for status update e2bab547-b554-4f82-9eb5-875c9f8c87a2
+2021-08-17 23:45:27 [main] DEBUG c.l.e.service.MailSenderService -
+                Mail Sent
+2021-08-17 23:45:27 [main] DEBUG c.l.e.service.HrService -
+                employee email retrieved indraneel316@gmail.com17214cc9-2a5a-4195-9996-9e1b93bfe643
+2021-08-17 23:45:27 [main] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID 2ee62b0b-3cb9-4cf6-843e-89dab6cf4ae833
+2021-08-17 23:45:27 [main] DEBUG c.l.e.service.HrService -
+                Status Updated
+2021-08-17 23:45:27 [main] DEBUG c.l.e.service.LoginService -
+                login details returned[33, 1, Pending, updated user]2e960b50-9c16-420b-a525-8cb1d9077751
+2021-08-17 23:45:43 [main] INFO  c.l.e.OnboardingApplication -
+                Starting OnboardingApplication using Java 1.8.0_291 on LT-NB-163 with PID 22188 (C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy\target\classes started by indraneel.suribhotla in C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy)
+2021-08-17 23:45:43 [main] DEBUG c.l.e.OnboardingApplication -
+                Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-17 23:45:43 [main] INFO  c.l.e.OnboardingApplication -
+                No active profile set, falling back to default profiles: default
+2021-08-17 23:45:51 [main] INFO  c.l.e.OnboardingApplication -
+                Started OnboardingApplication in 8.772 seconds (JVM running for 9.564)

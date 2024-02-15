@@ -1,0 +1,126 @@
+2021-08-18 00:02:11 [main] INFO  c.l.e.OnboardingApplication -
+                Starting OnboardingApplication using Java 1.8.0_291 on LT-NB-163 with PID 1584 (C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy\target\classes started by indraneel.suribhotla in C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy)
+2021-08-18 00:02:11 [main] DEBUG c.l.e.OnboardingApplication -
+                Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-18 00:02:11 [main] INFO  c.l.e.OnboardingApplication -
+                No active profile set, falling back to default profiles: default
+2021-08-18 00:02:19 [main] INFO  c.l.e.OnboardingApplication -
+                Started OnboardingApplication in 8.442 seconds (JVM running for 9.299)
+2021-08-18 00:12:11 [main] INFO  c.l.e.OnboardingApplication -
+                Starting OnboardingApplication using Java 1.8.0_291 on LT-NB-163 with PID 13028 (C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy\target\classes started by indraneel.suribhotla in C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy)
+2021-08-18 00:12:11 [main] DEBUG c.l.e.OnboardingApplication -
+                Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-18 00:12:11 [main] INFO  c.l.e.OnboardingApplication -
+                No active profile set, falling back to default profiles: default
+2021-08-18 00:12:18 [main] INFO  c.l.e.OnboardingApplication -
+                Started OnboardingApplication in 7.519 seconds (JVM running for 8.324)
+2021-08-18 00:17:00 [main] INFO  c.l.e.OnboardingApplication -
+                Starting OnboardingApplication using Java 1.8.0_291 on LT-NB-163 with PID 11480 (C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy\target\classes started by indraneel.suribhotla in C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy)
+2021-08-18 00:17:00 [main] DEBUG c.l.e.OnboardingApplication -
+                Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-18 00:17:00 [main] INFO  c.l.e.OnboardingApplication -
+                No active profile set, falling back to default profiles: default
+2021-08-18 00:17:44 [main] INFO  c.l.e.OnboardingApplication -
+                Starting OnboardingApplication using Java 1.8.0_291 on LT-NB-163 with PID 14612 (C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy\target\classes started by indraneel.suribhotla in C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy)
+2021-08-18 00:17:44 [main] DEBUG c.l.e.OnboardingApplication -
+                Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-18 00:17:44 [main] INFO  c.l.e.OnboardingApplication -
+                No active profile set, falling back to default profiles: default
+2021-08-18 00:17:52 [main] INFO  c.l.e.OnboardingApplication -
+                Started OnboardingApplication in 8.353 seconds (JVM running for 9.137)
+2021-08-18 00:18:06 [http-nio-9192-exec-1] INFO  c.l.e.controller.EmployeeController -
+                fetching details for id 497 266fbec1-2974-4d7f-b2ed-a5b42a9c4dce 
+2021-08-18 00:18:07 [http-nio-9192-exec-1] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID 266fbec1-2974-4d7f-b2ed-a5b42a9c4dce497
+2021-08-18 00:27:17 [main] INFO  c.l.e.OnboardingApplication -
+                Starting OnboardingApplication using Java 1.8.0_291 on LT-NB-163 with PID 24912 (C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy\target\classes started by indraneel.suribhotla in C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy)
+2021-08-18 00:27:17 [main] DEBUG c.l.e.OnboardingApplication -
+                Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-18 00:27:17 [main] INFO  c.l.e.OnboardingApplication -
+                No active profile set, falling back to default profiles: default
+2021-08-18 00:27:25 [main] INFO  c.l.e.OnboardingApplication -
+                Started OnboardingApplication in 8.095 seconds (JVM running for 8.908)
+2021-08-18 00:28:10 [http-nio-9192-exec-2] INFO  c.l.e.service.HrService -
+                Employee Demographics EmployeeDemographics(employeeId=503, employeeCode=LIS4971, firstName=Test User, lastName=Test User, dob=null, bloodGroup=null, aadharNumber=null, fatherName=null, motherName=null, emailId=abc@gmail.com, phoneNumber=null, sslc=null, hsc=null, ug=null, role=1, gender=null, emergencyContactName=null, emergencyContactRelation=null, emergencyContactPhoneNumber=null, password=null, createdAt=2021-08-18 00:28:10.909, currentStatus=INCOMPLETE, rejectReason=null, addressList=null) Saved in Repository beaffeb6-f8d8-4f13-9633-283098af9a5c
+2021-08-18 00:28:11 [http-nio-9192-exec-2] INFO  c.l.e.service.HrService -
+                User Saved beaffeb6-f8d8-4f13-9633-283098af9a5cUser(sno=504, emailId=abc@gmail.com, password=Abc1235@fd, roleId=1, userId=EmployeeDemographics(employeeId=503, employeeCode=LIS4971, firstName=Test User, lastName=Test User, dob=null, bloodGroup=null, aadharNumber=null, fatherName=null, motherName=null, emailId=abc@gmail.com, phoneNumber=null, sslc=null, hsc=null, ug=null, role=1, gender=null, emergencyContactName=null, emergencyContactRelation=null, emergencyContactPhoneNumber=null, password=null, createdAt=2021-08-18 00:28:10.909, currentStatus=INCOMPLETE, rejectReason=null, addressList=null))
+2021-08-18 00:28:54 [http-nio-9192-exec-3] INFO  c.l.e.service.LoginService -
+                login details returned[503, 1, INCOMPLETE, new user]0763d74c-07b9-4544-9b1d-b8b0ef7c9dc3
+2021-08-18 00:29:42 [http-nio-9192-exec-4] INFO  c.l.e.controller.EmployeeController -
+                Request ID 503 64bc561e-531a-429d-a578-e406c71eea6b
+2021-08-18 00:29:42 [http-nio-9192-exec-4] INFO  c.l.e.controller.EmployeeController -
+                Request Body EmployeeDemographicsVo(employeeId=0, employeeCode=null, firstName=Goutham, lastName=gksdfsd, dob=30/03/2000, bloodGroup=tyryty, aadharNumber=34254631, fatherName=dgfg, motherName=tertre, emailId=user4@gmail.com, phoneNumber=85563145, sslc=7.0, hsc=7.0, ug=7.0, gender=male, emergencyContactName=kgret, emergencyContactRelation=jsfdds, emergencyContactPhoneNumber=42235611, password=gfhgf, currentStatus=Incomplete, rejectReason=fdsf, addressList=[Address(addressId=0, employeeCode=null, type=null, flatName=ABC flats, streetName=XYZ street, area=Perungudi, state=TamilNadu, country=India, city=Chennai, pinCode=600213, mapCoordinates=15°N, 30°E.), Address(addressId=0, employeeCode=null, type=null, flatName=ABC flats, streetName=XYZ street, area=Perungudi, state=TamilNadu, country=India, city=Chennai, pinCode=600213, mapCoordinates=15°N, 30°E.)], action=Submit) 64bc561e-531a-429d-a578-e406c71eea6b
+2021-08-18 00:29:42 [http-nio-9192-exec-4] INFO  c.l.e.s.EmployeeDemographicsService -
+                Employee saved 64bc561e-531a-429d-a578-e406c71eea6b EmployeeDemographics(employeeId=503, employeeCode=LIS4971, firstName=Goutham, lastName=gksdfsd, dob=30/03/2000, bloodGroup=tyryty, aadharNumber=34254631, fatherName=dgfg, motherName=tertre, emailId=user4@gmail.com, phoneNumber=85563145, sslc=7.0, hsc=7.0, ug=7.0, role=1, gender=male, emergencyContactName=kgret, emergencyContactRelation=jsfdds, emergencyContactPhoneNumber=42235611, password=null, createdAt=2021-08-18 00:28:11.0, currentStatus=PENDING, rejectReason=Not Rejected Yet, addressList=[Address(addressId=505, employeeCode=LIS4971, type=Present, flatName=ABC flats, streetName=XYZ street, area=Perungudi, state=TamilNadu, country=India, city=Chennai, pinCode=600213, mapCoordinates=15°N, 30°E.), Address(addressId=506, employeeCode=LIS4971, type=Permanent, flatName=ABC flats, streetName=XYZ street, area=Perungudi, state=TamilNadu, country=India, city=Chennai, pinCode=600213, mapCoordinates=15°N, 30°E.)])
+2021-08-18 00:29:55 [http-nio-9192-exec-5] INFO  c.l.e.service.LoginService -
+                login details returned[503, 1, PENDING, updated user]c9502f07-9b62-4307-9091-ccf45029f78d
+2021-08-18 00:31:13 [http-nio-9192-exec-8] INFO  c.l.e.service.HrService -
+                employee email retrieved of object EmployeeDemographics(employeeId=503, employeeCode=LIS4971, firstName=Goutham, lastName=gksdfsd, dob=30/03/2000, bloodGroup=tyryty, aadharNumber=34254631, fatherName=dgfg, motherName=tertre, emailId=user4@gmail.com, phoneNumber=85563145, sslc=7.0, hsc=7.0, ug=7.0, role=1, gender=male, emergencyContactName=kgret, emergencyContactRelation=jsfdds, emergencyContactPhoneNumber=42235611, password=null, createdAt=2021-08-18 00:28:11.0, currentStatus=PENDING, rejectReason=Not Rejected Yet, addressList=[Address(addressId=505, employeeCode=LIS4971, type=Present, flatName=ABC flats, streetName=XYZ street, area=Perungudi, state=TamilNadu, country=India, city=Chennai, pinCode=600213, mapCoordinates=15°N, 30°E.), Address(addressId=506, employeeCode=LIS4971, type=Permanent, flatName=ABC flats, streetName=XYZ street, area=Perungudi, state=TamilNadu, country=India, city=Chennai, pinCode=600213, mapCoordinates=15°N, 30°E.)]) b29d9b07-f689-42f9-b07f-6aed64f3799b
+2021-08-18 00:31:18 [http-nio-9192-exec-8] INFO  c.l.e.service.MailSenderService -
+                Mail Sent 768ee75a-2e46-44a9-bce7-084625acc6f6 
+2021-08-18 00:31:18 [http-nio-9192-exec-8] INFO  c.l.e.service.HrService -
+                User Notified cef856a7-6380-4c6d-9e7f-4e5376f200fa
+2021-08-18 08:32:53 [main] ERROR c.l.e.service.HrService -
+                email id null while checking employee 351b4b26-6bf0-40d8-8d56-ecaf881242d8
+2021-08-18 08:32:53 [main] ERROR c.l.e.service.HrService -
+                Role is Null
+2021-08-18 08:32:53 [main] INFO  c.l.e.service.HrService -
+                Role ID Retrieved1
+2021-08-18 08:32:53 [main] ERROR c.l.e.s.EmployeeDemographicsService -
+                Error : Employee with ID  33 is invalid  f5ef0fed-6c96-4625-b40c-f694739ee877
+2021-08-18 08:32:53 [main] INFO  c.l.e.service.HrService -
+                Employee Demographics EmployeeDemographics(employeeId=0, employeeCode=LIS11, firstName=Neel, lastName=Neel, dob=null, bloodGroup=null, aadharNumber=null, fatherName=null, motherName=null, emailId=indraneel316@gmail.com, phoneNumber=null, sslc=null, hsc=null, ug=null, role=1, gender=null, emergencyContactName=null, emergencyContactRelation=null, emergencyContactPhoneNumber=null, password=null, createdAt=null, currentStatus=INCOMPLETE, rejectReason=null, addressList=null) Saved in Repository fe5520cc-55f3-453a-8136-a06b9a8993a2
+2021-08-18 08:32:53 [main] ERROR c.l.e.service.HrService -
+                Employee With this Email Id is not found fe5520cc-55f3-453a-8136-a06b9a8993a2
+2021-08-18 08:32:53 [main] ERROR c.l.e.s.EmployeeDemographicsService -
+                Employee With ID 30Cannot be accessed 6188c667-0f4f-4ac2-9e4f-4b7bf4afb9d2
+2021-08-18 08:32:53 [main] ERROR c.l.e.service.LoginService -
+                Employee With email id indraneel316@gmail.com cant be accessed 15373264-c0c1-49b1-b867-acbe88761afb
+2021-08-18 08:32:53 [main] INFO  c.l.e.s.EmployeeDemographicsService -
+                Employee saved 57fbbcef-3885-4779-9b8b-9a455c71d61c EmployeeDemographics(employeeId=33, employeeCode=LIS2100, firstName=Indraneel, lastName=S, dob=30/03/2000, bloodGroup=A1+ve, aadharNumber=84934893878, fatherName=XYZ, motherName=XYZZ, emailId=indraneel316@gmail.com, phoneNumber=5738495738454, sslc=10.0, hsc=7.0, ug=7.0, role=1, gender=Male, emergencyContactName=Neel, emergencyContactRelation=Friend, emergencyContactPhoneNumber=94384554353, password=null, createdAt=null, currentStatus=INCOMPLETE, rejectReason=Not Rejected Yet, addressList=[Address(addressId=1, employeeCode=LIS2100, type=Present, flatName=fjdskkj, streetName=fjdshfds, area=fsdfkjdsf, state=Chennai, country=India, city=Chennai, pinCode=60854, mapCoordinates=kfjsdkf), Address(addressId=1, employeeCode=LIS2100, type=Permanent, flatName=fjdskkj, streetName=fjdshfds, area=fsdfkjdsf, state=Chennai, country=India, city=Chennai, pinCode=60854, mapCoordinates=kfjsdkf)])
+2021-08-18 08:32:53 [main] INFO  c.l.e.service.HrService -
+                Employees Data Fetched 9e872a1b-45e8-40d6-856b-15a8cb52bafc
+2021-08-18 08:32:53 [main] ERROR c.l.e.service.HrService -
+                Employee ID33is not valid for status update 02edf167-2550-46f8-9b60-ecb1421bb36c
+2021-08-18 08:32:53 [main] INFO  c.l.e.service.MailSenderService -
+                Mail Sent c3c4e0c0-b42d-4609-93ed-1a0a179f082c 
+2021-08-18 08:32:53 [main] INFO  c.l.e.service.HrService -
+                employee email retrieved of object EmployeeDemographics(employeeId=33, employeeCode=LIS2100, firstName=Indraneel, lastName=S, dob=30/03/2000, bloodGroup=A1+ve, aadharNumber=84934893878, fatherName=XYZ, motherName=XYZZ, emailId=indraneel316@gmail.com, phoneNumber=5738495738454, sslc=10.0, hsc=7.0, ug=7.0, role=1, gender=Male, emergencyContactName=Neel, emergencyContactRelation=Friend, emergencyContactPhoneNumber=94384554353, password=null, createdAt=null, currentStatus=Pending, rejectReason=, addressList=[Address(addressId=1, employeeCode=LIS9947, type=, flatName=fjdskkj, streetName=fjdshfds, area=fsdfkjdsf, state=Chennai, country=India, city=Chennai, pinCode=60854, mapCoordinates=kfjsdkf)]) f352f95c-1434-44cd-a40a-4c59019ec945
+2021-08-18 08:32:53 [main] INFO  c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned EmployeeDemographics(employeeId=33, employeeCode=LIS2100, firstName=Indraneel, lastName=S, dob=30/03/2000, bloodGroup=A1+ve, aadharNumber=84934893878, fatherName=XYZ, motherName=XYZZ, emailId=indraneel316@gmail.com, phoneNumber=5738495738454, sslc=10.0, hsc=7.0, ug=7.0, role=1, gender=Male, emergencyContactName=Neel, emergencyContactRelation=Friend, emergencyContactPhoneNumber=94384554353, password=null, createdAt=null, currentStatus=Pending, rejectReason=, addressList=[Address(addressId=1, employeeCode=LIS9947, type=, flatName=fjdskkj, streetName=fjdshfds, area=fsdfkjdsf, state=Chennai, country=India, city=Chennai, pinCode=60854, mapCoordinates=kfjsdkf), Address(addressId=1, employeeCode=LIS9947, type=, flatName=fjdskkj, streetName=fjdshfds, area=fsdfkjdsf, state=Chennai, country=India, city=Chennai, pinCode=60854, mapCoordinates=kfjsdkf)]) 815d4c3d-08b1-4bdb-b8a4-9969f1c99f1f
+2021-08-18 08:32:53 [main] INFO  c.l.e.service.HrService -
+                Status Updated On Object EmployeeDemographics(employeeId=33, employeeCode=LIS2100, firstName=Indraneel, lastName=S, dob=30/03/2000, bloodGroup=A1+ve, aadharNumber=84934893878, fatherName=XYZ, motherName=XYZZ, emailId=indraneel316@gmail.com, phoneNumber=, sslc=10.0, hsc=7.0, ug=7.0, role=1, gender=Male, emergencyContactName=Neel, emergencyContactRelation=Friend, emergencyContactPhoneNumber=94384554353, password=null, createdAt=null, currentStatus=Approved, rejectReason=, addressList=[Address(addressId=1, employeeCode=LIS9947, type=, flatName=fjdskkj, streetName=fjdshfds, area=fsdfkjdsf, state=Chennai, country=India, city=Chennai, pinCode=60854, mapCoordinates=kfjsdkf)])
+2021-08-18 08:32:54 [main] INFO  c.l.e.service.LoginService -
+                login details returned[33, 1, Pending, updated user]197eda4c-8527-45ee-b1ac-1e5819c2740b
+2021-08-18 16:16:40 [main] ERROR c.l.e.service.HrService -
+                email id null while checking employee 96f99927-0b8a-4115-bf1d-7b2a250572d7
+2021-08-18 16:16:40 [main] ERROR c.l.e.service.HrService -
+                Role is Null
+2021-08-18 16:16:40 [main] INFO  c.l.e.service.HrService -
+                Role ID Retrieved1
+2021-08-18 16:16:40 [main] ERROR c.l.e.s.EmployeeDemographicsService -
+                Error : Employee with ID  33 is invalid  711cd3b5-b2ae-42cd-a947-8d2ac80e5a64
+2021-08-18 16:16:40 [main] INFO  c.l.e.service.HrService -
+                Employee Demographics EmployeeDemographics(employeeId=0, employeeCode=LIS11, firstName=Neel, lastName=Neel, dob=null, bloodGroup=null, aadharNumber=null, fatherName=null, motherName=null, emailId=indraneel316@gmail.com, phoneNumber=null, sslc=null, hsc=null, ug=null, role=1, gender=null, emergencyContactName=null, emergencyContactRelation=null, emergencyContactPhoneNumber=null, password=null, createdAt=null, currentStatus=INCOMPLETE, rejectReason=null, addressList=null) Saved in Repository a91fc4fb-7a66-4a61-9b9c-2a243b5ff836
+2021-08-18 16:16:40 [main] ERROR c.l.e.service.HrService -
+                Employee With this Email Id is not found a91fc4fb-7a66-4a61-9b9c-2a243b5ff836
+2021-08-18 16:16:40 [main] ERROR c.l.e.s.EmployeeDemographicsService -
+                Employee With ID 30Cannot be accessed d4965ef9-3316-4ba5-8685-39b284d04203
+2021-08-18 16:16:40 [main] ERROR c.l.e.service.LoginService -
+                Employee With email id indraneel316@gmail.com cant be accessed afe3169f-20ce-4f8f-941a-dd057aeba4f7
+2021-08-18 16:16:40 [main] INFO  c.l.e.s.EmployeeDemographicsService -
+                Employee saved 63ca5a47-8541-45f0-98a0-49021eb5ae30 EmployeeDemographics(employeeId=33, employeeCode=LIS2100, firstName=Indraneel, lastName=S, dob=30/03/2000, bloodGroup=A1+ve, aadharNumber=84934893878, fatherName=XYZ, motherName=XYZZ, emailId=indraneel316@gmail.com, phoneNumber=5738495738454, sslc=10.0, hsc=7.0, ug=7.0, role=1, gender=Male, emergencyContactName=Neel, emergencyContactRelation=Friend, emergencyContactPhoneNumber=94384554353, password=null, createdAt=null, currentStatus=INCOMPLETE, rejectReason=Not Rejected Yet, addressList=[Address(addressId=1, employeeCode=LIS2100, type=Present, flatName=fjdskkj, streetName=fjdshfds, area=fsdfkjdsf, state=Chennai, country=India, city=Chennai, pinCode=60854, mapCoordinates=kfjsdkf), Address(addressId=1, employeeCode=LIS2100, type=Permanent, flatName=fjdskkj, streetName=fjdshfds, area=fsdfkjdsf, state=Chennai, country=India, city=Chennai, pinCode=60854, mapCoordinates=kfjsdkf)])
+2021-08-18 16:16:40 [main] INFO  c.l.e.service.HrService -
+                Employees Data Fetched 2af9ffa1-c3b0-4fa8-b4c9-3b1897ae6eeb
+2021-08-18 16:16:41 [main] ERROR c.l.e.service.HrService -
+                Employee ID33is not valid for status update 2a203289-8873-4cfe-8321-7bc3911b02ee
+2021-08-18 16:16:41 [main] INFO  c.l.e.service.MailSenderService -
+                Mail Sent 0d415bd2-ac8c-4207-9967-c03c1af76672 
+2021-08-18 16:16:41 [main] INFO  c.l.e.service.HrService -
+                employee email retrieved of object EmployeeDemographics(employeeId=33, employeeCode=LIS2100, firstName=Indraneel, lastName=S, dob=30/03/2000, bloodGroup=A1+ve, aadharNumber=84934893878, fatherName=XYZ, motherName=XYZZ, emailId=indraneel316@gmail.com, phoneNumber=5738495738454, sslc=10.0, hsc=7.0, ug=7.0, role=1, gender=Male, emergencyContactName=Neel, emergencyContactRelation=Friend, emergencyContactPhoneNumber=94384554353, password=null, createdAt=null, currentStatus=Pending, rejectReason=, addressList=[Address(addressId=1, employeeCode=LIS9947, type=, flatName=fjdskkj, streetName=fjdshfds, area=fsdfkjdsf, state=Chennai, country=India, city=Chennai, pinCode=60854, mapCoordinates=kfjsdkf)]) e2804700-a694-4cce-889a-84a5479134eb
+2021-08-18 16:16:41 [main] INFO  c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned EmployeeDemographics(employeeId=33, employeeCode=LIS2100, firstName=Indraneel, lastName=S, dob=30/03/2000, bloodGroup=A1+ve, aadharNumber=84934893878, fatherName=XYZ, motherName=XYZZ, emailId=indraneel316@gmail.com, phoneNumber=5738495738454, sslc=10.0, hsc=7.0, ug=7.0, role=1, gender=Male, emergencyContactName=Neel, emergencyContactRelation=Friend, emergencyContactPhoneNumber=94384554353, password=null, createdAt=null, currentStatus=Pending, rejectReason=, addressList=[Address(addressId=1, employeeCode=LIS9947, type=, flatName=fjdskkj, streetName=fjdshfds, area=fsdfkjdsf, state=Chennai, country=India, city=Chennai, pinCode=60854, mapCoordinates=kfjsdkf), Address(addressId=1, employeeCode=LIS9947, type=, flatName=fjdskkj, streetName=fjdshfds, area=fsdfkjdsf, state=Chennai, country=India, city=Chennai, pinCode=60854, mapCoordinates=kfjsdkf)]) 074d391f-a20e-4f27-a13f-cf1a4c14e0f0
+2021-08-18 16:16:41 [main] INFO  c.l.e.service.HrService -
+                Status Updated On Object EmployeeDemographics(employeeId=33, employeeCode=LIS2100, firstName=Indraneel, lastName=S, dob=30/03/2000, bloodGroup=A1+ve, aadharNumber=84934893878, fatherName=XYZ, motherName=XYZZ, emailId=indraneel316@gmail.com, phoneNumber=, sslc=10.0, hsc=7.0, ug=7.0, role=1, gender=Male, emergencyContactName=Neel, emergencyContactRelation=Friend, emergencyContactPhoneNumber=94384554353, password=null, createdAt=null, currentStatus=Approved, rejectReason=, addressList=[Address(addressId=1, employeeCode=LIS9947, type=, flatName=fjdskkj, streetName=fjdshfds, area=fsdfkjdsf, state=Chennai, country=India, city=Chennai, pinCode=60854, mapCoordinates=kfjsdkf)])
+2021-08-18 16:16:41 [main] INFO  c.l.e.service.LoginService -
+                login details returned[33, 1, Pending, updated user]a3796e0f-b4b3-4604-aa62-b5ad0d20b446

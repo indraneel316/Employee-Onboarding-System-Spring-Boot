@@ -1,0 +1,8 @@
+2021-08-25 09:24:11 [main] INFO  c.l.e.OnboardingApplication -
+                Starting OnboardingApplication using Java 1.8.0_291 on LT-NB-163 with PID 34688 (C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy\target\classes started by indraneel.suribhotla in C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy)
+2021-08-25 09:24:11 [main] DEBUG c.l.e.OnboardingApplication -
+                Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-25 09:24:11 [main] INFO  c.l.e.OnboardingApplication -
+                No active profile set, falling back to default profiles: default
+2021-08-25 09:24:39 [main] INFO  c.l.e.OnboardingApplication -
+                Started OnboardingApplication in 29.617 seconds (JVM running for 31.278)

@@ -1,0 +1,866 @@
+2021-08-12 00:11:01 [http-nio-9192-exec-1] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID364
+2021-08-12 00:15:58 [http-nio-9192-exec-4] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID364
+2021-08-12 00:17:52 [http-nio-9192-exec-7] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID364
+2021-08-12 00:17:57 [http-nio-9192-exec-9] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID364
+2021-08-12 00:18:01 [http-nio-9192-exec-10] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID364
+2021-08-12 00:18:03 [http-nio-9192-exec-2] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID364
+2021-08-12 00:18:12 [http-nio-9192-exec-1] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID364
+2021-08-12 00:18:41 [http-nio-9192-exec-3] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID364
+2021-08-12 00:18:45 [http-nio-9192-exec-4] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID364
+2021-08-12 00:19:15 [http-nio-9192-exec-6] DEBUG c.l.e.service.LoginService -
+                login details returned[364, 1, INCOMPLETE]
+2021-08-12 00:19:15 [http-nio-9192-exec-8] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID364
+2021-08-12 00:27:37 [main] INFO  c.l.e.OnboardingApplication -
+                Starting OnboardingApplication using Java 1.8.0_291 on LT-NB-163 with PID 10336 (C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy\target\classes started by indraneel.suribhotla in C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy)
+2021-08-12 00:27:37 [main] DEBUG c.l.e.OnboardingApplication -
+                Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-12 00:27:37 [main] INFO  c.l.e.OnboardingApplication -
+                No active profile set, falling back to default profiles: default
+2021-08-12 00:27:45 [main] INFO  c.l.e.OnboardingApplication -
+                Started OnboardingApplication in 8.751 seconds (JVM running for 9.624)
+2021-08-12 00:32:25 [http-nio-9192-exec-2] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID364
+2021-08-12 00:35:30 [http-nio-9192-exec-5] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID364
+2021-08-12 00:57:52 [http-nio-9192-exec-10] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID364
+2021-08-12 01:04:14 [main] INFO  c.l.e.OnboardingApplication -
+                Starting OnboardingApplication using Java 1.8.0_291 on LT-NB-163 with PID 18148 (C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy\target\classes started by indraneel.suribhotla in C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy)
+2021-08-12 01:04:14 [main] DEBUG c.l.e.OnboardingApplication -
+                Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-12 01:04:14 [main] INFO  c.l.e.OnboardingApplication -
+                No active profile set, falling back to default profiles: default
+2021-08-12 01:04:22 [main] INFO  c.l.e.OnboardingApplication -
+                Started OnboardingApplication in 8.457 seconds (JVM running for 9.404)
+2021-08-12 01:04:45 [main] INFO  c.l.e.OnboardingApplication -
+                Starting OnboardingApplication using Java 1.8.0_291 on LT-NB-163 with PID 17728 (C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy\target\classes started by indraneel.suribhotla in C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy)
+2021-08-12 01:04:45 [main] DEBUG c.l.e.OnboardingApplication -
+                Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-12 01:04:45 [main] INFO  c.l.e.OnboardingApplication -
+                No active profile set, falling back to default profiles: default
+2021-08-12 01:04:51 [main] INFO  c.l.e.OnboardingApplication -
+                Started OnboardingApplication in 7.438 seconds (JVM running for 8.333)
+2021-08-12 01:12:16 [http-nio-9192-exec-1] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID364
+2021-08-12 01:21:02 [main] INFO  c.l.e.OnboardingApplication -
+                Starting OnboardingApplication using Java 1.8.0_291 on LT-NB-163 with PID 11892 (C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy\target\classes started by indraneel.suribhotla in C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy)
+2021-08-12 01:21:02 [main] DEBUG c.l.e.OnboardingApplication -
+                Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-12 01:21:02 [main] INFO  c.l.e.OnboardingApplication -
+                No active profile set, falling back to default profiles: default
+2021-08-12 01:21:12 [main] INFO  c.l.e.OnboardingApplication -
+                Started OnboardingApplication in 9.671 seconds (JVM running for 10.624)
+2021-08-12 01:25:07 [http-nio-9192-exec-5] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID364
+2021-08-12 01:27:13 [http-nio-9192-exec-7] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID364
+2021-08-12 09:23:15 [main] INFO  c.l.e.OnboardingApplication -
+                Starting OnboardingApplication using Java 1.8.0_291 on LT-NB-163 with PID 24076 (C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy\target\classes started by indraneel.suribhotla in C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy)
+2021-08-12 09:23:16 [main] DEBUG c.l.e.OnboardingApplication -
+                Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-12 09:23:16 [main] INFO  c.l.e.OnboardingApplication -
+                No active profile set, falling back to default profiles: default
+2021-08-12 09:23:23 [main] INFO  c.l.e.OnboardingApplication -
+                Started OnboardingApplication in 7.787 seconds (JVM running for 8.743)
+2021-08-12 09:25:30 [main] INFO  c.l.e.OnboardingApplication -
+                Starting OnboardingApplication using Java 1.8.0_291 on LT-NB-163 with PID 25440 (C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy\target\classes started by indraneel.suribhotla in C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy)
+2021-08-12 09:25:30 [main] DEBUG c.l.e.OnboardingApplication -
+                Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-12 09:25:30 [main] INFO  c.l.e.OnboardingApplication -
+                No active profile set, falling back to default profiles: default
+2021-08-12 09:25:37 [main] INFO  c.l.e.OnboardingApplication -
+                Started OnboardingApplication in 8.238 seconds (JVM running for 9.266)
+2021-08-12 09:26:38 [http-nio-9192-exec-1] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID364
+2021-08-12 09:27:04 [http-nio-9192-exec-4] DEBUG c.l.e.service.LoginService -
+                login details returned[364, 1, INCOMPLETE]
+2021-08-12 09:27:04 [http-nio-9192-exec-5] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID364
+2021-08-12 09:29:12 [http-nio-9192-exec-7] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID364
+2021-08-12 09:31:02 [http-nio-9192-exec-9] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID364
+2021-08-12 09:31:09 [http-nio-9192-exec-10] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID364
+2021-08-12 09:31:17 [http-nio-9192-exec-2] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID364
+2021-08-12 09:31:23 [http-nio-9192-exec-4] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID364
+2021-08-12 09:34:19 [http-nio-9192-exec-9] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID364
+2021-08-12 09:37:21 [http-nio-9192-exec-2] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID364
+2021-08-12 09:40:56 [http-nio-9192-exec-4] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID364
+2021-08-12 09:54:29 [http-nio-9192-exec-6] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID364
+2021-08-12 10:03:14 [http-nio-9192-exec-9] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID364
+2021-08-12 10:15:57 [http-nio-9192-exec-2] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID364
+2021-08-12 10:16:08 [http-nio-9192-exec-4] DEBUG c.l.e.service.LoginService -
+                login details returned[364, 1, INCOMPLETE]
+2021-08-12 10:16:08 [http-nio-9192-exec-5] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID364
+2021-08-12 10:17:12 [http-nio-9192-exec-7] DEBUG c.l.e.OnboardingApplication -
+                Request ID 364
+2021-08-12 10:17:12 [http-nio-9192-exec-7] DEBUG c.l.e.OnboardingApplication -
+                Request Body EmployeeDemographicsVo(employeeId=364, employeeCode=, firstName=Indraneel, lastName=Indraneel, dob=2021-08-13, bloodGroup=B-ve, aadharNumber=435435433989, fatherName=Xyxzadasdsa, motherName=fjsfewdfsdfdsd, emailId=neel316@gmail.com, phoneNumber=9940596250, sslc=80.0, hsc=80.0, ug=80.0, gender=male, emergencyContactName=Fsdfdsfdsfdsdf, emergencyContactRelation=dfsdfdsfdsfdsfds, emergencyContactPhoneNumber=4354353443, password=, currentStatus=, rejectReason=, addressList=[Address(addressId=0, employeeCode=null, type=present, flatName=sadsadsad, streetName=sdasadsad, area=dassadsad, state=Vayots Dzor, country=Armenia, city=chennai, pinCode=600006, mapCoordinates=12341.123N,123.12E), Address(addressId=0, employeeCode=null, type=permanent, flatName=sadsadsad, streetName=sdasadsad, area=dassadsad, state=Vayots Dzor, country=Armenia, city=chennai, pinCode=600006, mapCoordinates=12341.123N,123.12E)], action=Submit)
+2021-08-12 10:19:57 [http-nio-9192-exec-8] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID364
+2021-08-12 10:21:08 [http-nio-9192-exec-10] DEBUG c.l.e.OnboardingApplication -
+                Request ID 364
+2021-08-12 10:21:08 [http-nio-9192-exec-10] DEBUG c.l.e.OnboardingApplication -
+                Request Body EmployeeDemographicsVo(employeeId=364, employeeCode=, firstName=Indraneel, lastName=Indraneel, dob=2021-08-14, bloodGroup=B-ve, aadharNumber=435435433433, fatherName=Xyxzadasdsa, motherName=fjsfewdfsdfdsd, emailId=neel316@gmail.com, phoneNumber=9940596250, sslc=80.0, hsc=80.0, ug=80.0, gender=male, emergencyContactName=Fsdfdsfdsfdsdf, emergencyContactRelation=dfsdfdsfdsfdsfds, emergencyContactPhoneNumber=4354353443, password=, currentStatus=, rejectReason=, addressList=[Address(addressId=0, employeeCode=, type=present, flatName=dsfsdfdsf, streetName=dsfsdfdsfds, area=sdfdsf, state=Cheltenham, country=Australia, city=chennai, pinCode=600006, mapCoordinates=12341.123N,123.12E), Address(addressId=0, employeeCode=, type=permanent, flatName=dsfsdfdsf, streetName=dsfsdfdsfds, area=sdfdsf, state=Cheltenham, country=Australia, city=chennai, pinCode=600006, mapCoordinates=12341.123N,123.12E)], action=Submit)
+2021-08-12 10:21:08 [http-nio-9192-exec-10] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee savedEmployeeDemographics(employeeId=364, employeeCode=LIS364, firstName=Indraneel, lastName=Indraneel, dob=2021-08-14, bloodGroup=B-ve, aadharNumber=435435433433, fatherName=Xyxzadasdsa, motherName=fjsfewdfsdfdsd, emailId=neel316@gmail.com, phoneNumber=9940596250, sslc=80.0, hsc=80.0, ug=80.0, role=1, gender=male, emergencyContactName=Fsdfdsfdsfdsdf, emergencyContactRelation=dfsdfdsfdsfdsfds, emergencyContactPhoneNumber=4354353443, password=null, createdAt=2021-08-11 23:29:03.0, currentStatus=PENDING, rejectReason=Not Rejected Yet, addressList=[Address(addressId=368, employeeCode=LIS364, type=Present, flatName=dsfsdfdsf, streetName=dsfsdfdsfds, area=sdfdsf, state=Cheltenham, country=Australia, city=chennai, pinCode=600006, mapCoordinates=12341.123N,123.12E), Address(addressId=369, employeeCode=LIS364, type=Permanent, flatName=dsfsdfdsf, streetName=dsfsdfdsfds, area=sdfdsf, state=Cheltenham, country=Australia, city=chennai, pinCode=600006, mapCoordinates=12341.123N,123.12E)])
+2021-08-12 10:22:24 [http-nio-9192-exec-2] DEBUG c.l.e.service.LoginService -
+                login details returned[362, 3, INCOMPLETE]
+2021-08-12 10:22:24 [http-nio-9192-exec-3] DEBUG c.l.e.service.HrService -
+                Employees Data Fetched
+2021-08-12 10:23:03 [http-nio-9192-exec-5] DEBUG c.l.e.service.MailSenderService -
+                Mail Sent
+2021-08-12 10:23:03 [http-nio-9192-exec-5] DEBUG c.l.e.service.HrService -
+                Status Updated
+2021-08-12 10:23:11 [http-nio-9192-exec-6] DEBUG c.l.e.service.HrService -
+                Employees Data Fetched
+2021-08-12 13:47:24 [main] INFO  c.l.e.OnboardingApplication -
+                Starting OnboardingApplication using Java 1.8.0_291 on LT-NB-163 with PID 2164 (C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy\target\classes started by indraneel.suribhotla in C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy)
+2021-08-12 13:47:24 [main] DEBUG c.l.e.OnboardingApplication -
+                Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-12 13:47:24 [main] INFO  c.l.e.OnboardingApplication -
+                No active profile set, falling back to default profiles: default
+2021-08-12 13:47:32 [main] INFO  c.l.e.OnboardingApplication -
+                Started OnboardingApplication in 8.759 seconds (JVM running for 11.152)
+2021-08-12 13:49:03 [http-nio-9192-exec-1] ERROR c.l.e.service.LoginService -
+                Employee With email id indraneel316@gmail.com cant be accessed
+2021-08-12 13:49:06 [http-nio-9192-exec-2] ERROR c.l.e.service.LoginService -
+                Employee With email id indraneel316@gmail.com cant be accessed
+2021-08-12 13:49:09 [http-nio-9192-exec-3] ERROR c.l.e.service.LoginService -
+                Employee With email id indraneel316@gmail.com cant be accessed
+2021-08-12 13:49:21 [http-nio-9192-exec-4] ERROR c.l.e.service.LoginService -
+                Employee With email id indraneel316@gmail.com cant be accessed
+2021-08-12 13:50:35 [http-nio-9192-exec-5] DEBUG c.l.e.service.LoginService -
+                login details returned[362, 3, INCOMPLETE]
+2021-08-12 13:50:35 [http-nio-9192-exec-6] DEBUG c.l.e.service.HrService -
+                Employees Data Fetched
+2021-08-12 13:53:25 [http-nio-9192-exec-8] DEBUG c.l.e.service.HrService -
+                Employees Data Fetched
+2021-08-12 13:53:53 [http-nio-9192-exec-10] DEBUG c.l.e.service.HrService -
+                Employees Data Fetched
+2021-08-12 13:54:16 [http-nio-9192-exec-2] DEBUG c.l.e.service.HrService -
+                Getting all roles from database
+2021-08-12 13:55:07 [http-nio-9192-exec-5] DEBUG c.l.e.service.HrService -
+                Employees Data Fetched
+2021-08-12 13:55:07 [http-nio-9192-exec-5] DEBUG c.l.e.service.HrService -
+                Employees Data Fetched
+2021-08-12 13:55:07 [http-nio-9192-exec-5] DEBUG c.l.e.service.HrService -
+                Employee Demographics Saved in Repository 
+2021-08-12 13:55:07 [http-nio-9192-exec-5] DEBUG c.l.e.service.HrService -
+                User SavedUser(sno=371, emailId=neel317@gmail.com, password=Abc1235@fd, roleId=1, userId=EmployeeDemographics(employeeId=370, employeeCode=LIS366, firstName=Neel Neel, lastName=Neel Neel, dob=null, bloodGroup=null, aadharNumber=null, fatherName=null, motherName=null, emailId=neel317@gmail.com, phoneNumber=null, sslc=null, hsc=null, ug=null, role=1, gender=null, emergencyContactName=null, emergencyContactRelation=null, emergencyContactPhoneNumber=null, password=null, createdAt=2021-08-12 13:55:07.405, currentStatus=INCOMPLETE, rejectReason=null, addressList=null))
+2021-08-12 13:56:08 [http-nio-9192-exec-7] DEBUG c.l.e.service.LoginService -
+                login details returned[370, 1, INCOMPLETE]
+2021-08-12 13:56:10 [http-nio-9192-exec-8] DEBUG c.l.e.service.LoginService -
+                login details returned[370, 1, INCOMPLETE]
+2021-08-12 13:56:22 [http-nio-9192-exec-10] DEBUG c.l.e.service.LoginService -
+                login details returned[370, 1, INCOMPLETE]
+2021-08-12 13:56:46 [http-nio-9192-exec-2] DEBUG c.l.e.service.LoginService -
+                login details returned[370, 1, INCOMPLETE]
+2021-08-12 13:56:46 [http-nio-9192-exec-3] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID370
+2021-08-12 13:58:51 [http-nio-9192-exec-6] DEBUG c.l.e.OnboardingApplication -
+                Request ID 370
+2021-08-12 13:58:51 [http-nio-9192-exec-6] DEBUG c.l.e.OnboardingApplication -
+                Request Body EmployeeDemographicsVo(employeeId=370, employeeCode=, firstName=Indraneel, lastName=s, dob=2021-08-15, bloodGroup=B+ve, aadharNumber=435431436644, fatherName=Xyxzadasdsa, motherName=fjsfewdfsdfdsd, emailId=neel317@gmail.com, phoneNumber=9941596252, sslc=80.0, hsc=80.0, ug=80.0, gender=male, emergencyContactName=Fsdfdsfdsfdsdf, emergencyContactRelation=dfsdfdsfdsfdsfds, emergencyContactPhoneNumber=4354353411, password=, currentStatus=, rejectReason=, addressList=[Address(addressId=0, employeeCode=, type=present, flatName=fdgfdgd, streetName=fdgfdgdfg, area=fdgfdgfd, state=, country=Antarctica, city=chennaifdgdfg, pinCode=600006, mapCoordinates=12341.123N,123.12E), Address(addressId=0, employeeCode=, type=permanent, flatName=aaaawa, streetName=aaaaa, area=aaaaaaaaww, state=, country=Antarctica, city=chennaiwq, pinCode=6000043, mapCoordinates=12341.123N,123.12E)], action=Save)
+2021-08-12 13:58:51 [http-nio-9192-exec-6] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee savedEmployeeDemographics(employeeId=370, employeeCode=LIS366, firstName=Indraneel, lastName=s, dob=2021-08-15, bloodGroup=B+ve, aadharNumber=435431436644, fatherName=Xyxzadasdsa, motherName=fjsfewdfsdfdsd, emailId=neel317@gmail.com, phoneNumber=9941596252, sslc=80.0, hsc=80.0, ug=80.0, role=1, gender=male, emergencyContactName=Fsdfdsfdsfdsdf, emergencyContactRelation=dfsdfdsfdsfdsfds, emergencyContactPhoneNumber=4354353411, password=null, createdAt=2021-08-12 13:55:07.0, currentStatus=INCOMPLETE, rejectReason=Not Rejected Yet, addressList=[Address(addressId=372, employeeCode=LIS366, type=Present, flatName=fdgfdgd, streetName=fdgfdgdfg, area=fdgfdgfd, state=, country=Antarctica, city=chennaifdgdfg, pinCode=600006, mapCoordinates=12341.123N,123.12E), Address(addressId=373, employeeCode=LIS366, type=Permanent, flatName=aaaawa, streetName=aaaaa, area=aaaaaaaaww, state=, country=Antarctica, city=chennaiwq, pinCode=6000043, mapCoordinates=12341.123N,123.12E)])
+2021-08-12 13:59:10 [http-nio-9192-exec-8] DEBUG c.l.e.service.LoginService -
+                login details returned[364, 1, COMPLETED]
+2021-08-12 13:59:10 [http-nio-9192-exec-9] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID364
+2021-08-12 13:59:44 [http-nio-9192-exec-1] DEBUG c.l.e.service.LoginService -
+                login details returned[362, 3, INCOMPLETE]
+2021-08-12 13:59:44 [http-nio-9192-exec-2] DEBUG c.l.e.service.HrService -
+                Employees Data Fetched
+2021-08-12 13:59:57 [http-nio-9192-exec-4] DEBUG c.l.e.service.HrService -
+                Employees Data Fetched
+2021-08-12 15:04:18 [http-nio-9192-exec-6] DEBUG c.l.e.service.HrService -
+                Employees Data Fetched
+2021-08-12 15:18:53 [http-nio-9192-exec-9] ERROR c.l.e.service.LoginService -
+                Employee With email id user4@gmail.com cant be accessed
+2021-08-12 15:18:55 [http-nio-9192-exec-10] ERROR c.l.e.service.LoginService -
+                Employee With email id user4@gmail.com cant be accessed
+2021-08-12 15:19:20 [http-nio-9192-exec-1] DEBUG c.l.e.service.LoginService -
+                login details returned[358, 1, REJECTED]
+2021-08-12 15:20:05 [main] INFO  c.l.e.OnboardingApplication -
+                Starting OnboardingApplication using Java 1.8.0_291 on LT-NB-163 with PID 16572 (C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy\target\classes started by indraneel.suribhotla in C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy)
+2021-08-12 15:20:05 [main] DEBUG c.l.e.OnboardingApplication -
+                Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-12 15:20:05 [main] INFO  c.l.e.OnboardingApplication -
+                No active profile set, falling back to default profiles: default
+2021-08-12 15:20:13 [main] INFO  c.l.e.OnboardingApplication -
+                Started OnboardingApplication in 8.231 seconds (JVM running for 9.512)
+2021-08-12 15:20:30 [http-nio-9192-exec-1] DEBUG c.l.e.service.LoginService -
+                login details returned[358, 1, REJECTED]
+2021-08-12 15:20:30 [http-nio-9192-exec-2] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID358
+2021-08-12 15:21:11 [http-nio-9192-exec-3] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID358
+2021-08-12 15:21:26 [http-nio-9192-exec-4] DEBUG c.l.e.service.LoginService -
+                login details returned[358, 1, REJECTED]
+2021-08-12 15:21:26 [http-nio-9192-exec-5] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID358
+2021-08-12 15:52:07 [http-nio-9192-exec-8] DEBUG c.l.e.service.LoginService -
+                login details returned[362, 3, INCOMPLETE]
+2021-08-12 15:52:07 [http-nio-9192-exec-9] DEBUG c.l.e.service.HrService -
+                Employees Data Fetched
+2021-08-12 15:52:13 [http-nio-9192-exec-10] DEBUG c.l.e.service.HrService -
+                Getting all roles from database
+2021-08-12 15:52:51 [http-nio-9192-exec-2] DEBUG c.l.e.service.HrService -
+                Employees Data Fetched
+2021-08-12 15:52:51 [http-nio-9192-exec-2] DEBUG c.l.e.service.HrService -
+                Employees Data Fetched
+2021-08-12 15:52:51 [http-nio-9192-exec-2] DEBUG c.l.e.service.HrService -
+                Employee Demographics Saved in Repository 
+2021-08-12 15:52:51 [http-nio-9192-exec-2] DEBUG c.l.e.service.HrService -
+                User SavedUser(sno=375, emailId=final@gmail.com, password=Abc1235@fd, roleId=1, userId=EmployeeDemographics(employeeId=374, employeeCode=LIS372, firstName=Final Test, lastName=Final Test, dob=null, bloodGroup=null, aadharNumber=null, fatherName=null, motherName=null, emailId=final@gmail.com, phoneNumber=null, sslc=null, hsc=null, ug=null, role=1, gender=null, emergencyContactName=null, emergencyContactRelation=null, emergencyContactPhoneNumber=null, password=null, createdAt=2021-08-12 15:52:51.646, currentStatus=INCOMPLETE, rejectReason=null, addressList=null))
+2021-08-12 15:52:57 [http-nio-9192-exec-3] DEBUG c.l.e.service.HrService -
+                Employees Data Fetched
+2021-08-12 15:53:18 [http-nio-9192-exec-4] DEBUG c.l.e.service.LoginService -
+                login details returned[374, 1, INCOMPLETE]
+2021-08-12 15:53:35 [http-nio-9192-exec-5] DEBUG c.l.e.service.LoginService -
+                login details returned[374, 1, INCOMPLETE]
+2021-08-12 15:55:09 [http-nio-9192-exec-8] DEBUG c.l.e.OnboardingApplication -
+                Request ID 374
+2021-08-12 15:55:09 [http-nio-9192-exec-8] DEBUG c.l.e.OnboardingApplication -
+                Request Body EmployeeDemographicsVo(employeeId=374, employeeCode=, firstName=Indraneel, lastName=s, dob=2021-08-14, bloodGroup=A+ve, aadharNumber=435435437774, fatherName=Xyxzadasdsa, motherName=fjsfewdfsdfdsd, emailId=final@gmail.com, phoneNumber=9142596252, sslc=80.0, hsc=80.0, ug=8.0, gender=male, emergencyContactName=Fsdfdsfdsfdsdf, emergencyContactRelation=dfsdfdsfdsfdsfds, emergencyContactPhoneNumber=4354353443, password=, currentStatus=, rejectReason=, addressList=[Address(addressId=0, employeeCode=, type=present, flatName=hfdgfdg, streetName=fsdfsdfsd, area=dassadsad, state=Styria, country=Austria, city=chennaifdgdfg, pinCode=600081, mapCoordinates=123123nj213), Address(addressId=0, employeeCode=, type=permanent, flatName=hfdgfdg, streetName=fsdfsdfsd, area=dassadsad, state=Styria, country=Austria, city=chennaifdgdfg, pinCode=600081, mapCoordinates=123123nj213)], action=Submit)
+2021-08-12 15:56:02 [http-nio-9192-exec-9] DEBUG c.l.e.OnboardingApplication -
+                Request ID 374
+2021-08-12 15:56:02 [http-nio-9192-exec-9] DEBUG c.l.e.OnboardingApplication -
+                Request Body EmployeeDemographicsVo(employeeId=374, employeeCode=, firstName=Indraneel, lastName=s, dob=2021-08-14, bloodGroup=A+ve, aadharNumber=435411137774, fatherName=Xyxzadasdsa, motherName=fjsfewdfsdfdsd, emailId=final@gmail.com, phoneNumber=9142596252, sslc=80.0, hsc=80.0, ug=8.0, gender=male, emergencyContactName=Fsdfdsfdsfdsdf, emergencyContactRelation=dfsdfdsfdsfdsfds, emergencyContactPhoneNumber=4354311443, password=, currentStatus=, rejectReason=, addressList=[Address(addressId=0, employeeCode=, type=present, flatName=hfdgfdg, streetName=fsdfsdfsd, area=dassadsad, state=Styria, country=Austria, city=chennaifdgdfg, pinCode=600081, mapCoordinates=123123nj213), Address(addressId=0, employeeCode=, type=permanent, flatName=hfdgfdg, streetName=fsdfsdfsd, area=dassadsad, state=Styria, country=Austria, city=chennaifdgdfg, pinCode=600081, mapCoordinates=123123nj213)], action=Submit)
+2021-08-12 15:56:02 [http-nio-9192-exec-9] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee savedEmployeeDemographics(employeeId=374, employeeCode=LIS372, firstName=Indraneel, lastName=s, dob=2021-08-14, bloodGroup=A+ve, aadharNumber=435411137774, fatherName=Xyxzadasdsa, motherName=fjsfewdfsdfdsd, emailId=final@gmail.com, phoneNumber=9142596252, sslc=80.0, hsc=80.0, ug=8.0, role=1, gender=male, emergencyContactName=Fsdfdsfdsfdsdf, emergencyContactRelation=dfsdfdsfdsfdsfds, emergencyContactPhoneNumber=4354311443, password=null, createdAt=2021-08-12 15:52:52.0, currentStatus=PENDING, rejectReason=Not Rejected Yet, addressList=[Address(addressId=378, employeeCode=LIS372, type=Present, flatName=hfdgfdg, streetName=fsdfsdfsd, area=dassadsad, state=Styria, country=Austria, city=chennaifdgdfg, pinCode=600081, mapCoordinates=123123nj213), Address(addressId=379, employeeCode=LIS372, type=Permanent, flatName=hfdgfdg, streetName=fsdfsdfsd, area=dassadsad, state=Styria, country=Austria, city=chennaifdgdfg, pinCode=600081, mapCoordinates=123123nj213)])
+2021-08-12 15:56:24 [http-nio-9192-exec-10] DEBUG c.l.e.service.LoginService -
+                login details returned[374, 1, PENDING]
+2021-08-12 15:56:24 [http-nio-9192-exec-1] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID374
+2021-08-12 15:57:24 [http-nio-9192-exec-2] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID374
+2021-08-12 15:57:24 [http-nio-9192-exec-3] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID374
+2021-08-12 15:57:39 [http-nio-9192-exec-4] DEBUG c.l.e.service.LoginService -
+                login details returned[374, 1, PENDING]
+2021-08-12 15:57:39 [http-nio-9192-exec-5] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID374
+2021-08-12 15:57:39 [http-nio-9192-exec-6] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID374
+2021-08-12 16:09:03 [http-nio-9192-exec-8] DEBUG c.l.e.service.LoginService -
+                login details returned[374, 1, PENDING]
+2021-08-12 16:09:03 [http-nio-9192-exec-9] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID374
+2021-08-12 16:09:03 [http-nio-9192-exec-10] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID374
+2021-08-12 16:10:31 [http-nio-9192-exec-2] DEBUG c.l.e.service.LoginService -
+                login details returned[374, 1, PENDING]
+2021-08-12 16:10:31 [http-nio-9192-exec-3] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID374
+2021-08-12 16:10:31 [http-nio-9192-exec-4] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID374
+2021-08-12 16:11:35 [http-nio-9192-exec-6] DEBUG c.l.e.service.LoginService -
+                login details returned[374, 1, PENDING]
+2021-08-12 16:11:35 [http-nio-9192-exec-7] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID374
+2021-08-12 16:11:35 [http-nio-9192-exec-8] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID374
+2021-08-12 16:13:10 [http-nio-9192-exec-10] DEBUG c.l.e.service.LoginService -
+                login details returned[374, 1, PENDING]
+2021-08-12 16:13:10 [http-nio-9192-exec-1] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID374
+2021-08-12 16:13:10 [http-nio-9192-exec-2] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID374
+2021-08-12 16:13:32 [http-nio-9192-exec-3] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID374
+2021-08-12 16:13:32 [http-nio-9192-exec-4] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID374
+2021-08-12 16:14:29 [http-nio-9192-exec-5] DEBUG c.l.e.service.LoginService -
+                login details returned[374, 1, PENDING]
+2021-08-12 16:14:30 [http-nio-9192-exec-6] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID374
+2021-08-12 16:14:30 [http-nio-9192-exec-7] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID374
+2021-08-12 16:23:07 [http-nio-9192-exec-9] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID374
+2021-08-12 16:23:07 [http-nio-9192-exec-10] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID374
+2021-08-12 16:23:33 [http-nio-9192-exec-2] DEBUG c.l.e.service.LoginService -
+                login details returned[374, 1, PENDING]
+2021-08-12 16:23:33 [http-nio-9192-exec-3] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID374
+2021-08-12 16:23:33 [http-nio-9192-exec-4] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID374
+2021-08-12 16:28:07 [http-nio-9192-exec-6] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID374
+2021-08-12 16:28:07 [http-nio-9192-exec-7] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID374
+2021-08-12 16:28:26 [http-nio-9192-exec-8] DEBUG c.l.e.service.LoginService -
+                login details returned[374, 1, PENDING]
+2021-08-12 16:28:26 [http-nio-9192-exec-9] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID374
+2021-08-12 16:28:26 [http-nio-9192-exec-10] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID374
+2021-08-12 17:06:38 [http-nio-9192-exec-3] DEBUG c.l.e.service.LoginService -
+                login details returned[374, 1, PENDING]
+2021-08-12 17:06:40 [http-nio-9192-exec-4] DEBUG c.l.e.service.LoginService -
+                login details returned[374, 1, PENDING]
+2021-08-12 17:07:00 [http-nio-9192-exec-5] DEBUG c.l.e.service.LoginService -
+                login details returned[374, 1, PENDING]
+2021-08-12 17:07:00 [http-nio-9192-exec-6] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID374
+2021-08-12 17:07:00 [http-nio-9192-exec-7] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID374
+2021-08-12 17:10:31 [http-nio-9192-exec-9] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID374
+2021-08-12 17:10:31 [http-nio-9192-exec-10] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID374
+2021-08-12 17:19:39 [http-nio-9192-exec-2] DEBUG c.l.e.service.LoginService -
+                login details returned[374, 1, PENDING]
+2021-08-12 17:19:49 [http-nio-9192-exec-3] DEBUG c.l.e.service.LoginService -
+                login details returned[374, 1, PENDING]
+2021-08-12 17:19:49 [http-nio-9192-exec-4] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID374
+2021-08-12 17:19:49 [http-nio-9192-exec-5] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID374
+2021-08-12 17:32:26 [http-nio-9192-exec-7] DEBUG c.l.e.service.LoginService -
+                login details returned[374, 1, PENDING]
+2021-08-12 17:32:37 [http-nio-9192-exec-8] DEBUG c.l.e.service.LoginService -
+                login details returned[374, 1, PENDING]
+2021-08-12 17:32:37 [http-nio-9192-exec-9] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID374
+2021-08-12 17:32:37 [http-nio-9192-exec-10] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID374
+2021-08-12 17:37:49 [http-nio-9192-exec-2] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID374
+2021-08-12 17:37:49 [http-nio-9192-exec-3] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID374
+2021-08-12 17:40:47 [http-nio-9192-exec-6] DEBUG c.l.e.service.LoginService -
+                login details returned[374, 1, PENDING]
+2021-08-12 17:40:47 [http-nio-9192-exec-7] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID374
+2021-08-12 17:40:47 [http-nio-9192-exec-8] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID374
+2021-08-12 17:41:24 [http-nio-9192-exec-9] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID374
+2021-08-12 17:41:24 [http-nio-9192-exec-10] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID374
+2021-08-12 17:42:07 [http-nio-9192-exec-1] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID374
+2021-08-12 17:42:07 [http-nio-9192-exec-2] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID374
+2021-08-12 17:42:11 [http-nio-9192-exec-3] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID374
+2021-08-12 17:42:11 [http-nio-9192-exec-4] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID374
+2021-08-12 17:42:19 [http-nio-9192-exec-5] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID374
+2021-08-12 17:42:19 [http-nio-9192-exec-6] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID374
+2021-08-12 17:42:31 [http-nio-9192-exec-7] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID374
+2021-08-12 17:42:31 [http-nio-9192-exec-8] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID374
+2021-08-12 17:42:33 [http-nio-9192-exec-9] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID374
+2021-08-12 17:42:33 [http-nio-9192-exec-10] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID374
+2021-08-12 17:43:00 [http-nio-9192-exec-1] DEBUG c.l.e.service.LoginService -
+                login details returned[374, 1, PENDING]
+2021-08-12 17:43:00 [http-nio-9192-exec-2] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID374
+2021-08-12 17:43:00 [http-nio-9192-exec-3] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID374
+2021-08-12 18:07:36 [http-nio-9192-exec-5] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID374
+2021-08-12 18:07:36 [http-nio-9192-exec-6] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID374
+2021-08-12 18:07:59 [http-nio-9192-exec-7] DEBUG c.l.e.service.LoginService -
+                login details returned[374, 1, PENDING]
+2021-08-12 18:07:59 [http-nio-9192-exec-8] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID374
+2021-08-12 18:07:59 [http-nio-9192-exec-9] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID374
+2021-08-12 18:15:26 [http-nio-9192-exec-2] DEBUG c.l.e.service.LoginService -
+                login details returned[374, 1, PENDING]
+2021-08-12 18:15:26 [http-nio-9192-exec-3] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID374
+2021-08-12 18:15:26 [http-nio-9192-exec-4] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID374
+2021-08-12 18:22:10 [http-nio-9192-exec-7] DEBUG c.l.e.OnboardingApplication -
+                Request ID 374
+2021-08-12 18:22:10 [http-nio-9192-exec-7] DEBUG c.l.e.OnboardingApplication -
+                Request Body EmployeeDemographicsVo(employeeId=374, employeeCode=, firstName=Indraneel, lastName=s, dob=2021-08-14, bloodGroup=A+ve, aadharNumber=435411137774, fatherName=Xyxzadasdsa, motherName=fjsfewdfsdfdsd, emailId=final@gmail.com, phoneNumber=9142596252, sslc=80.0, hsc=80.0, ug=8.0, gender=male, emergencyContactName=Fsdfdsfdsfdsdf, emergencyContactRelation=dfsdfdsfdsfdsfds, emergencyContactPhoneNumber=4354311443, password=, currentStatus=, rejectReason=, addressList=[Address(addressId=0, employeeCode=, type=present, flatName=hfdgfdg, streetName=fsdfsdfsd, area=dassadsad, state=Western, country=American Samoa, city=chennaifdgdfg, pinCode=600081, mapCoordinates=123123nj213), Address(addressId=0, employeeCode=, type=permanent, flatName=hfdgfdg, streetName=fsdfsdfsd, area=dassadsad, state=, country=American Samoa, city=chennaifdgdfg, pinCode=600081, mapCoordinates=123123nj213)], action=Save)
+2021-08-12 18:22:20 [http-nio-9192-exec-8] DEBUG c.l.e.OnboardingApplication -
+                Request ID 374
+2021-08-12 18:22:20 [http-nio-9192-exec-8] DEBUG c.l.e.OnboardingApplication -
+                Request Body EmployeeDemographicsVo(employeeId=374, employeeCode=, firstName=Indraneel, lastName=s, dob=2021-08-14, bloodGroup=A+ve, aadharNumber=435411137774, fatherName=Xyxzadasdsa, motherName=fjsfewdfsdfdsd, emailId=final@gmail.com, phoneNumber=9142596252, sslc=80.0, hsc=80.0, ug=8.0, gender=male, emergencyContactName=Fsdfdsfdsfdsdf, emergencyContactRelation=dfsdfdsfdsfdsfds, emergencyContactPhoneNumber=4354311443, password=, currentStatus=, rejectReason=, addressList=[Address(addressId=0, employeeCode=, type=present, flatName=hfdgfdg, streetName=fsdfsdfsd, area=dassadsad, state=Western, country=American Samoa, city=chennaifdgdfg, pinCode=600081, mapCoordinates=123123nj213), Address(addressId=0, employeeCode=, type=permanent, flatName=hfdgfdg, streetName=fsdfsdfsd, area=dassadsad, state=, country=American Samoa, city=chennaifdgdfg, pinCode=600081, mapCoordinates=123123nj213)], action=Save)
+2021-08-12 18:22:21 [http-nio-9192-exec-9] DEBUG c.l.e.OnboardingApplication -
+                Request ID 374
+2021-08-12 18:22:21 [http-nio-9192-exec-9] DEBUG c.l.e.OnboardingApplication -
+                Request Body EmployeeDemographicsVo(employeeId=374, employeeCode=, firstName=Indraneel, lastName=s, dob=2021-08-14, bloodGroup=A+ve, aadharNumber=435411137774, fatherName=Xyxzadasdsa, motherName=fjsfewdfsdfdsd, emailId=final@gmail.com, phoneNumber=9142596252, sslc=80.0, hsc=80.0, ug=8.0, gender=male, emergencyContactName=Fsdfdsfdsfdsdf, emergencyContactRelation=dfsdfdsfdsfdsfds, emergencyContactPhoneNumber=4354311443, password=, currentStatus=, rejectReason=, addressList=[Address(addressId=0, employeeCode=, type=present, flatName=hfdgfdg, streetName=fsdfsdfsd, area=dassadsad, state=Western, country=American Samoa, city=chennaifdgdfg, pinCode=600081, mapCoordinates=123123nj213), Address(addressId=0, employeeCode=, type=permanent, flatName=hfdgfdg, streetName=fsdfsdfsd, area=dassadsad, state=, country=American Samoa, city=chennaifdgdfg, pinCode=600081, mapCoordinates=123123nj213)], action=Submit)
+2021-08-12 18:22:22 [http-nio-9192-exec-10] DEBUG c.l.e.OnboardingApplication -
+                Request ID 374
+2021-08-12 18:22:22 [http-nio-9192-exec-10] DEBUG c.l.e.OnboardingApplication -
+                Request Body EmployeeDemographicsVo(employeeId=374, employeeCode=, firstName=Indraneel, lastName=s, dob=2021-08-14, bloodGroup=A+ve, aadharNumber=435411137774, fatherName=Xyxzadasdsa, motherName=fjsfewdfsdfdsd, emailId=final@gmail.com, phoneNumber=9142596252, sslc=80.0, hsc=80.0, ug=8.0, gender=male, emergencyContactName=Fsdfdsfdsfdsdf, emergencyContactRelation=dfsdfdsfdsfdsfds, emergencyContactPhoneNumber=4354311443, password=, currentStatus=, rejectReason=, addressList=[Address(addressId=0, employeeCode=, type=present, flatName=hfdgfdg, streetName=fsdfsdfsd, area=dassadsad, state=Western, country=American Samoa, city=chennaifdgdfg, pinCode=600081, mapCoordinates=123123nj213), Address(addressId=0, employeeCode=, type=permanent, flatName=hfdgfdg, streetName=fsdfsdfsd, area=dassadsad, state=, country=American Samoa, city=chennaifdgdfg, pinCode=600081, mapCoordinates=123123nj213)], action=Submit)
+2021-08-12 18:22:23 [http-nio-9192-exec-1] DEBUG c.l.e.OnboardingApplication -
+                Request ID 374
+2021-08-12 18:22:23 [http-nio-9192-exec-1] DEBUG c.l.e.OnboardingApplication -
+                Request Body EmployeeDemographicsVo(employeeId=374, employeeCode=, firstName=Indraneel, lastName=s, dob=2021-08-14, bloodGroup=A+ve, aadharNumber=435411137774, fatherName=Xyxzadasdsa, motherName=fjsfewdfsdfdsd, emailId=final@gmail.com, phoneNumber=9142596252, sslc=80.0, hsc=80.0, ug=8.0, gender=male, emergencyContactName=Fsdfdsfdsfdsdf, emergencyContactRelation=dfsdfdsfdsfdsfds, emergencyContactPhoneNumber=4354311443, password=, currentStatus=, rejectReason=, addressList=[Address(addressId=0, employeeCode=, type=present, flatName=hfdgfdg, streetName=fsdfsdfsd, area=dassadsad, state=Western, country=American Samoa, city=chennaifdgdfg, pinCode=600081, mapCoordinates=123123nj213), Address(addressId=0, employeeCode=, type=permanent, flatName=hfdgfdg, streetName=fsdfsdfsd, area=dassadsad, state=, country=American Samoa, city=chennaifdgdfg, pinCode=600081, mapCoordinates=123123nj213)], action=Submit)
+2021-08-12 18:22:25 [http-nio-9192-exec-2] DEBUG c.l.e.OnboardingApplication -
+                Request ID 374
+2021-08-12 18:22:25 [http-nio-9192-exec-2] DEBUG c.l.e.OnboardingApplication -
+                Request Body EmployeeDemographicsVo(employeeId=374, employeeCode=, firstName=Indraneel, lastName=s, dob=2021-08-14, bloodGroup=A+ve, aadharNumber=435411137774, fatherName=Xyxzadasdsa, motherName=fjsfewdfsdfdsd, emailId=final@gmail.com, phoneNumber=9142596252, sslc=80.0, hsc=80.0, ug=8.0, gender=male, emergencyContactName=Fsdfdsfdsfdsdf, emergencyContactRelation=dfsdfdsfdsfdsfds, emergencyContactPhoneNumber=4354311443, password=, currentStatus=, rejectReason=, addressList=[Address(addressId=0, employeeCode=, type=present, flatName=hfdgfdg, streetName=fsdfsdfsd, area=dassadsad, state=Western, country=American Samoa, city=chennaifdgdfg, pinCode=600081, mapCoordinates=123123nj213), Address(addressId=0, employeeCode=, type=permanent, flatName=hfdgfdg, streetName=fsdfsdfsd, area=dassadsad, state=, country=American Samoa, city=chennaifdgdfg, pinCode=600081, mapCoordinates=123123nj213)], action=Submit)
+2021-08-12 18:22:29 [http-nio-9192-exec-3] DEBUG c.l.e.OnboardingApplication -
+                Request ID 374
+2021-08-12 18:22:29 [http-nio-9192-exec-3] DEBUG c.l.e.OnboardingApplication -
+                Request Body EmployeeDemographicsVo(employeeId=374, employeeCode=, firstName=Indraneel, lastName=s, dob=2021-08-14, bloodGroup=A+ve, aadharNumber=435411137774, fatherName=Xyxzadasdsa, motherName=fjsfewdfsdfdsd, emailId=final@gmail.com, phoneNumber=9142596252, sslc=80.0, hsc=80.0, ug=8.0, gender=male, emergencyContactName=Fsdfdsfdsfdsdf, emergencyContactRelation=dfsdfdsfdsfdsfds, emergencyContactPhoneNumber=4354311443, password=, currentStatus=, rejectReason=, addressList=[Address(addressId=0, employeeCode=, type=present, flatName=hfdgfdg, streetName=fsdfsdfsd, area=dassadsad, state=Western, country=American Samoa, city=chennaifdgdfg, pinCode=600081, mapCoordinates=123123nj213), Address(addressId=0, employeeCode=, type=permanent, flatName=hfdgfdg, streetName=fsdfsdfsd, area=dassadsad, state=, country=American Samoa, city=chennaifdgdfg, pinCode=600081, mapCoordinates=123123nj213)], action=Submit)
+2021-08-12 18:22:30 [http-nio-9192-exec-4] DEBUG c.l.e.OnboardingApplication -
+                Request ID 374
+2021-08-12 18:22:30 [http-nio-9192-exec-4] DEBUG c.l.e.OnboardingApplication -
+                Request Body EmployeeDemographicsVo(employeeId=374, employeeCode=, firstName=Indraneel, lastName=s, dob=2021-08-14, bloodGroup=A+ve, aadharNumber=435411137774, fatherName=Xyxzadasdsa, motherName=fjsfewdfsdfdsd, emailId=final@gmail.com, phoneNumber=9142596252, sslc=80.0, hsc=80.0, ug=8.0, gender=male, emergencyContactName=Fsdfdsfdsfdsdf, emergencyContactRelation=dfsdfdsfdsfdsfds, emergencyContactPhoneNumber=4354311443, password=, currentStatus=, rejectReason=, addressList=[Address(addressId=0, employeeCode=, type=present, flatName=hfdgfdg, streetName=fsdfsdfsd, area=dassadsad, state=Western, country=American Samoa, city=chennaifdgdfg, pinCode=600081, mapCoordinates=123123nj213), Address(addressId=0, employeeCode=, type=permanent, flatName=hfdgfdg, streetName=fsdfsdfsd, area=dassadsad, state=, country=American Samoa, city=chennaifdgdfg, pinCode=600081, mapCoordinates=123123nj213)], action=Save)
+2021-08-12 18:22:46 [http-nio-9192-exec-5] DEBUG c.l.e.OnboardingApplication -
+                Request ID 374
+2021-08-12 18:22:46 [http-nio-9192-exec-5] DEBUG c.l.e.OnboardingApplication -
+                Request Body EmployeeDemographicsVo(employeeId=374, employeeCode=, firstName=Indraneel, lastName=s, dob=2021-08-14, bloodGroup=A+ve, aadharNumber=435411137774, fatherName=Xyxzadasdsa, motherName=fjsfewdfsdfdsd, emailId=final@gmail.com, phoneNumber=9142596252, sslc=80.0, hsc=80.0, ug=8.0, gender=male, emergencyContactName=Fsdfdsfdsfdsdf, emergencyContactRelation=dfsdfdsfdsfdsfds, emergencyContactPhoneNumber=4354311443, password=, currentStatus=, rejectReason=, addressList=[Address(addressId=0, employeeCode=, type=present, flatName=hfdgfdg, streetName=fsdfsdfsd, area=dassadsad, state=Western, country=American Samoa, city=chennaifdgdfg, pinCode=600081, mapCoordinates=123123nj213), Address(addressId=0, employeeCode=, type=permanent, flatName=hfdgfdg, streetName=fsdfsdfsd, area=dassadsad, state=, country=American Samoa, city=chennaifdgdfg, pinCode=600081, mapCoordinates=123123nj213)], action=Submit)
+2021-08-12 18:22:47 [http-nio-9192-exec-6] DEBUG c.l.e.OnboardingApplication -
+                Request ID 374
+2021-08-12 18:22:47 [http-nio-9192-exec-6] DEBUG c.l.e.OnboardingApplication -
+                Request Body EmployeeDemographicsVo(employeeId=374, employeeCode=, firstName=Indraneel, lastName=s, dob=2021-08-14, bloodGroup=A+ve, aadharNumber=435411137774, fatherName=Xyxzadasdsa, motherName=fjsfewdfsdfdsd, emailId=final@gmail.com, phoneNumber=9142596252, sslc=80.0, hsc=80.0, ug=8.0, gender=male, emergencyContactName=Fsdfdsfdsfdsdf, emergencyContactRelation=dfsdfdsfdsfdsfds, emergencyContactPhoneNumber=4354311443, password=, currentStatus=, rejectReason=, addressList=[Address(addressId=0, employeeCode=, type=present, flatName=hfdgfdg, streetName=fsdfsdfsd, area=dassadsad, state=Western, country=American Samoa, city=chennaifdgdfg, pinCode=600081, mapCoordinates=123123nj213), Address(addressId=0, employeeCode=, type=permanent, flatName=hfdgfdg, streetName=fsdfsdfsd, area=dassadsad, state=, country=American Samoa, city=chennaifdgdfg, pinCode=600081, mapCoordinates=123123nj213)], action=Save)
+2021-08-12 18:27:36 [http-nio-9192-exec-7] DEBUG c.l.e.service.LoginService -
+                login details returned[338, 1, INCOMPLETE]
+2021-08-12 18:27:59 [http-nio-9192-exec-8] DEBUG c.l.e.service.LoginService -
+                login details returned[362, 3, INCOMPLETE]
+2021-08-12 18:27:59 [http-nio-9192-exec-9] DEBUG c.l.e.service.HrService -
+                Employees Data Fetched
+2021-08-12 18:29:39 [http-nio-9192-exec-1] DEBUG c.l.e.service.HrService -
+                Getting all roles from database
+2021-08-12 18:31:09 [http-nio-9192-exec-4] DEBUG c.l.e.service.HrService -
+                Employees Data Fetched
+2021-08-12 18:31:09 [http-nio-9192-exec-4] DEBUG c.l.e.service.HrService -
+                Employees Data Fetched
+2021-08-12 18:31:09 [http-nio-9192-exec-4] DEBUG c.l.e.service.HrService -
+                Employee Demographics Saved in Repository 
+2021-08-12 18:31:09 [http-nio-9192-exec-4] DEBUG c.l.e.service.HrService -
+                User SavedUser(sno=401, emailId=sh@gmail.com, password=Abc1235@fd, roleId=1, userId=EmployeeDemographics(employeeId=400, employeeCode=LIS376, firstName=Sharaaat, lastName=Sharaaat, dob=null, bloodGroup=null, aadharNumber=null, fatherName=null, motherName=null, emailId=sh@gmail.com, phoneNumber=null, sslc=null, hsc=null, ug=null, role=1, gender=null, emergencyContactName=null, emergencyContactRelation=null, emergencyContactPhoneNumber=null, password=null, createdAt=2021-08-12 18:31:09.344, currentStatus=INCOMPLETE, rejectReason=null, addressList=null))
+2021-08-12 18:31:32 [http-nio-9192-exec-5] DEBUG c.l.e.service.LoginService -
+                login details returned[400, 1, INCOMPLETE]
+2021-08-12 18:35:18 [http-nio-9192-exec-8] DEBUG c.l.e.OnboardingApplication -
+                Request ID 400
+2021-08-12 18:35:18 [http-nio-9192-exec-8] DEBUG c.l.e.OnboardingApplication -
+                Request Body EmployeeDemographicsVo(employeeId=400, employeeCode=, firstName=Sharath, lastName=Kumar, dob=2021-08-06, bloodGroup=A+ve, aadharNumber=435435433232, fatherName=Xyxzadasdsa, motherName=fjsfewdfsdfdsd, emailId=sh@gmail.com, phoneNumber=9941596254, sslc=80.0, hsc=80.0, ug=8.0, gender=male, emergencyContactName=Fsdfdsfdsfdsdf, emergencyContactRelation=dfsdfdsfdsfdsfds, emergencyContactPhoneNumber=4354353444, password=, currentStatus=, rejectReason=, addressList=[Address(addressId=0, employeeCode=, type=present, flatName=dsfdsfdsf, streetName=cnkdfsdsf, area=dsfdsfdsf, state=Gopalganj, country=Bangladesh, city=chennaifdgdfg, pinCode=600324, mapCoordinates=jdfsdfdsfdske324), Address(addressId=0, employeeCode=, type=permanent, flatName=dsfdsfdsf, streetName=cnkdfsdsf, area=dsfdsfdsf, state=Gopalganj, country=Bangladesh, city=chennaifdgdfg, pinCode=600324, mapCoordinates=jdfsdfdsfdske324)], action=Save)
+2021-08-12 18:35:18 [http-nio-9192-exec-8] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee savedEmployeeDemographics(employeeId=400, employeeCode=LIS376, firstName=Sharath, lastName=Kumar, dob=2021-08-06, bloodGroup=A+ve, aadharNumber=435435433232, fatherName=Xyxzadasdsa, motherName=fjsfewdfsdfdsd, emailId=sh@gmail.com, phoneNumber=9941596254, sslc=80.0, hsc=80.0, ug=8.0, role=1, gender=male, emergencyContactName=Fsdfdsfdsfdsdf, emergencyContactRelation=dfsdfdsfdsfdsfds, emergencyContactPhoneNumber=4354353444, password=null, createdAt=2021-08-12 18:31:09.0, currentStatus=INCOMPLETE, rejectReason=Not Rejected Yet, addressList=[Address(addressId=402, employeeCode=LIS376, type=Present, flatName=dsfdsfdsf, streetName=cnkdfsdsf, area=dsfdsfdsf, state=Gopalganj, country=Bangladesh, city=chennaifdgdfg, pinCode=600324, mapCoordinates=jdfsdfdsfdske324), Address(addressId=403, employeeCode=LIS376, type=Permanent, flatName=dsfdsfdsf, streetName=cnkdfsdsf, area=dsfdsfdsf, state=Gopalganj, country=Bangladesh, city=chennaifdgdfg, pinCode=600324, mapCoordinates=jdfsdfdsfdske324)])
+2021-08-12 18:35:39 [http-nio-9192-exec-9] DEBUG c.l.e.service.LoginService -
+                login details returned[400, 1, INCOMPLETE]
+2021-08-12 18:35:39 [http-nio-9192-exec-10] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID400
+2021-08-12 18:35:39 [http-nio-9192-exec-1] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID400
+2021-08-12 18:35:43 [http-nio-9192-exec-2] DEBUG c.l.e.OnboardingApplication -
+                Request ID 400
+2021-08-12 18:35:43 [http-nio-9192-exec-2] DEBUG c.l.e.OnboardingApplication -
+                Request Body EmployeeDemographicsVo(employeeId=400, employeeCode=, firstName=Sharath, lastName=Kumar, dob=2021-08-06, bloodGroup=A+ve, aadharNumber=435435433232, fatherName=Xyxzadasdsa, motherName=fjsfewdfsdfdsd, emailId=sh@gmail.com, phoneNumber=9941596254, sslc=80.0, hsc=80.0, ug=8.0, gender=male, emergencyContactName=Fsdfdsfdsfdsdf, emergencyContactRelation=dfsdfdsfdsfdsfds, emergencyContactPhoneNumber=4354353444, password=, currentStatus=, rejectReason=, addressList=[Address(addressId=0, employeeCode=, type=present, flatName=dsfdsfdsf, streetName=cnkdfsdsf, area=dsfdsfdsf, state=, country=, city=chennaifdgdfg, pinCode=600324, mapCoordinates=jdfsdfdsfdske324), Address(addressId=0, employeeCode=, type=permanent, flatName=dsfdsfdsf, streetName=cnkdfsdsf, area=dsfdsfdsf, state=, country=, city=chennaifdgdfg, pinCode=600324, mapCoordinates=jdfsdfdsfdske324)], action=Submit)
+2021-08-12 18:35:43 [http-nio-9192-exec-2] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee savedEmployeeDemographics(employeeId=400, employeeCode=LIS376, firstName=Sharath, lastName=Kumar, dob=2021-08-06, bloodGroup=A+ve, aadharNumber=435435433232, fatherName=Xyxzadasdsa, motherName=fjsfewdfsdfdsd, emailId=sh@gmail.com, phoneNumber=9941596254, sslc=80.0, hsc=80.0, ug=8.0, role=1, gender=male, emergencyContactName=Fsdfdsfdsfdsdf, emergencyContactRelation=dfsdfdsfdsfdsfds, emergencyContactPhoneNumber=4354353444, password=null, createdAt=2021-08-12 18:31:09.0, currentStatus=PENDING, rejectReason=Not Rejected Yet, addressList=[Address(addressId=404, employeeCode=LIS376, type=Present, flatName=dsfdsfdsf, streetName=cnkdfsdsf, area=dsfdsfdsf, state=, country=, city=chennaifdgdfg, pinCode=600324, mapCoordinates=jdfsdfdsfdske324), Address(addressId=405, employeeCode=LIS376, type=Permanent, flatName=dsfdsfdsf, streetName=cnkdfsdsf, area=dsfdsfdsf, state=, country=, city=chennaifdgdfg, pinCode=600324, mapCoordinates=jdfsdfdsfdske324)])
+2021-08-12 18:38:12 [http-nio-9192-exec-4] DEBUG c.l.e.service.LoginService -
+                login details returned[400, 1, PENDING]
+2021-08-12 18:38:12 [http-nio-9192-exec-5] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID400
+2021-08-12 18:38:12 [http-nio-9192-exec-6] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID400
+2021-08-12 18:38:52 [http-nio-9192-exec-7] DEBUG c.l.e.service.LoginService -
+                login details returned[400, 1, PENDING]
+2021-08-12 18:38:52 [http-nio-9192-exec-8] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID400
+2021-08-12 18:38:52 [http-nio-9192-exec-9] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID400
+2021-08-12 18:39:48 [http-nio-9192-exec-10] DEBUG c.l.e.service.LoginService -
+                login details returned[362, 3, INCOMPLETE]
+2021-08-12 18:39:48 [http-nio-9192-exec-1] DEBUG c.l.e.service.HrService -
+                Employees Data Fetched
+2021-08-12 19:17:14 [http-nio-9192-exec-3] DEBUG c.l.e.service.HrService -
+                Getting all roles from database
+2021-08-12 19:17:57 [http-nio-9192-exec-5] DEBUG c.l.e.service.HrService -
+                Employees Data Fetched
+2021-08-12 19:17:57 [http-nio-9192-exec-5] DEBUG c.l.e.service.HrService -
+                Employees Data Fetched
+2021-08-12 19:17:57 [http-nio-9192-exec-5] DEBUG c.l.e.service.HrService -
+                Employee Demographics Saved in Repository 
+2021-08-12 19:17:57 [http-nio-9192-exec-5] DEBUG c.l.e.service.HrService -
+                User SavedUser(sno=407, emailId=shzam@gmail.com, password=Abc1235@fd, roleId=1, userId=EmployeeDemographics(employeeId=406, employeeCode=LIS402, firstName=Sharaf Zaman, lastName=Sharaf Zaman, dob=null, bloodGroup=null, aadharNumber=null, fatherName=null, motherName=null, emailId=shzam@gmail.com, phoneNumber=null, sslc=null, hsc=null, ug=null, role=1, gender=null, emergencyContactName=null, emergencyContactRelation=null, emergencyContactPhoneNumber=null, password=null, createdAt=2021-08-12 19:17:57.32, currentStatus=INCOMPLETE, rejectReason=null, addressList=null))
+2021-08-12 19:18:07 [http-nio-9192-exec-6] DEBUG c.l.e.service.HrService -
+                Employees Data Fetched
+2021-08-12 19:18:39 [http-nio-9192-exec-8] DEBUG c.l.e.service.LoginService -
+                login details returned[400, 1, PENDING]
+2021-08-12 19:18:39 [http-nio-9192-exec-9] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID400
+2021-08-12 19:18:39 [http-nio-9192-exec-10] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID400
+2021-08-12 19:18:58 [http-nio-9192-exec-1] DEBUG c.l.e.service.LoginService -
+                login details returned[400, 1, PENDING]
+2021-08-12 19:18:58 [http-nio-9192-exec-2] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID400
+2021-08-12 19:18:58 [http-nio-9192-exec-3] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID400
+2021-08-12 19:19:41 [http-nio-9192-exec-4] DEBUG c.l.e.service.LoginService -
+                login details returned[400, 1, PENDING]
+2021-08-12 19:19:41 [http-nio-9192-exec-5] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID400
+2021-08-12 19:19:41 [http-nio-9192-exec-6] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID400
+2021-08-12 19:20:28 [http-nio-9192-exec-7] DEBUG c.l.e.service.LoginService -
+                login details returned[400, 1, PENDING]
+2021-08-12 19:20:28 [http-nio-9192-exec-8] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID400
+2021-08-12 19:20:28 [http-nio-9192-exec-9] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID400
+2021-08-12 19:21:00 [http-nio-9192-exec-10] DEBUG c.l.e.service.LoginService -
+                login details returned[400, 1, PENDING]
+2021-08-12 19:21:00 [http-nio-9192-exec-1] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID400
+2021-08-12 19:21:00 [http-nio-9192-exec-2] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID400
+2021-08-12 19:23:25 [main] INFO  c.l.e.OnboardingApplication -
+                Starting OnboardingApplication using Java 1.8.0_291 on LT-NB-163 with PID 19364 (C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy\target\classes started by indraneel.suribhotla in C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy)
+2021-08-12 19:23:25 [main] DEBUG c.l.e.OnboardingApplication -
+                Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-12 19:23:25 [main] INFO  c.l.e.OnboardingApplication -
+                No active profile set, falling back to default profiles: default
+2021-08-12 19:23:33 [main] INFO  c.l.e.OnboardingApplication -
+                Started OnboardingApplication in 8.398 seconds (JVM running for 9.201)
+2021-08-12 19:24:09 [main] INFO  c.l.e.OnboardingApplication -
+                Starting OnboardingApplication using Java 1.8.0_291 on LT-NB-163 with PID 2216 (C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy\target\classes started by indraneel.suribhotla in C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy)
+2021-08-12 19:24:09 [main] DEBUG c.l.e.OnboardingApplication -
+                Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-12 19:24:09 [main] INFO  c.l.e.OnboardingApplication -
+                No active profile set, falling back to default profiles: default
+2021-08-12 19:24:16 [main] INFO  c.l.e.OnboardingApplication -
+                Started OnboardingApplication in 7.276 seconds (JVM running for 8.09)
+2021-08-12 19:24:34 [http-nio-9192-exec-1] DEBUG c.l.e.service.LoginService -
+                login details returned[400, 1, PENDING]
+2021-08-12 19:24:34 [http-nio-9192-exec-2] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID400
+2021-08-12 19:24:34 [http-nio-9192-exec-3] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID400
+2021-08-12 19:27:28 [main] INFO  c.l.e.OnboardingApplication -
+                Starting OnboardingApplication using Java 1.8.0_291 on LT-NB-163 with PID 11952 (C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy\target\classes started by indraneel.suribhotla in C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy)
+2021-08-12 19:27:28 [main] DEBUG c.l.e.OnboardingApplication -
+                Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-12 19:27:28 [main] INFO  c.l.e.OnboardingApplication -
+                No active profile set, falling back to default profiles: default
+2021-08-12 19:27:36 [main] INFO  c.l.e.OnboardingApplication -
+                Started OnboardingApplication in 8.36 seconds (JVM running for 9.164)
+2021-08-12 19:28:32 [main] INFO  c.l.e.OnboardingApplication -
+                Starting OnboardingApplication using Java 1.8.0_291 on LT-NB-163 with PID 14272 (C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy\target\classes started by indraneel.suribhotla in C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy)
+2021-08-12 19:28:32 [main] DEBUG c.l.e.OnboardingApplication -
+                Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-12 19:28:32 [main] INFO  c.l.e.OnboardingApplication -
+                No active profile set, falling back to default profiles: default
+2021-08-12 19:28:39 [main] INFO  c.l.e.OnboardingApplication -
+                Started OnboardingApplication in 7.104 seconds (JVM running for 8.071)
+2021-08-12 19:28:51 [http-nio-9192-exec-1] DEBUG c.l.e.service.HrService -
+                Employees Data Fetched
+2021-08-12 19:28:51 [http-nio-9192-exec-1] DEBUG c.l.e.service.HrService -
+                Employees Data Fetched
+2021-08-12 19:28:51 [http-nio-9192-exec-1] DEBUG c.l.e.service.HrService -
+                Employee Demographics Saved in Repository 
+2021-08-12 19:28:51 [http-nio-9192-exec-1] DEBUG c.l.e.service.HrService -
+                User SavedUser(sno=409, emailId=neel316@gmail.com, password=Abc1235@fd, roleId=3, userId=EmployeeDemographics(employeeId=408, employeeCode=LIS1, firstName=Neel, lastName=Neel, dob=null, bloodGroup=null, aadharNumber=null, fatherName=null, motherName=null, emailId=neel316@gmail.com, phoneNumber=null, sslc=null, hsc=null, ug=null, role=3, gender=null, emergencyContactName=null, emergencyContactRelation=null, emergencyContactPhoneNumber=null, password=null, createdAt=2021-08-12 19:28:51.422, currentStatus=INCOMPLETE, rejectReason=null, addressList=null))
+2021-08-12 19:29:15 [http-nio-9192-exec-3] DEBUG c.l.e.service.LoginService -
+                login details returned[408, 3, INCOMPLETE]
+2021-08-12 19:30:37 [http-nio-9192-exec-5] ERROR c.l.e.s.EmployeeDemographicsService -
+                Employee With ID 400Cannot be accessed
+2021-08-12 19:30:37 [http-nio-9192-exec-6] ERROR c.l.e.s.EmployeeDemographicsService -
+                Employee With ID 400Cannot be accessed
+2021-08-12 19:30:56 [http-nio-9192-exec-7] DEBUG c.l.e.service.LoginService -
+                login details returned[408, 3, INCOMPLETE]
+2021-08-12 19:30:56 [http-nio-9192-exec-8] DEBUG c.l.e.service.HrService -
+                Employees Data Fetched
+2021-08-12 19:32:06 [http-nio-9192-exec-10] DEBUG c.l.e.service.HrService -
+                Getting all roles from database
+2021-08-12 19:32:31 [http-nio-9192-exec-1] DEBUG c.l.e.service.HrService -
+                Employees Data Fetched
+2021-08-12 19:32:31 [http-nio-9192-exec-1] DEBUG c.l.e.service.HrService -
+                Employees Data Fetched
+2021-08-12 19:32:31 [http-nio-9192-exec-1] DEBUG c.l.e.service.HrService -
+                Employee Demographics Saved in Repository 
+2021-08-12 19:32:31 [http-nio-9192-exec-1] DEBUG c.l.e.service.HrService -
+                User SavedUser(sno=411, emailId=final@gmail.com, password=Abc1235@fd, roleId=1, userId=EmployeeDemographics(employeeId=410, employeeCode=LIS410, firstName=Final, lastName=Final, dob=null, bloodGroup=null, aadharNumber=null, fatherName=null, motherName=null, emailId=final@gmail.com, phoneNumber=null, sslc=null, hsc=null, ug=null, role=1, gender=null, emergencyContactName=null, emergencyContactRelation=null, emergencyContactPhoneNumber=null, password=null, createdAt=2021-08-12 19:32:31.161, currentStatus=INCOMPLETE, rejectReason=null, addressList=null))
+2021-08-12 19:32:36 [http-nio-9192-exec-3] DEBUG c.l.e.service.HrService -
+                Employees Data Fetched
+2021-08-12 19:32:49 [http-nio-9192-exec-5] DEBUG c.l.e.service.LoginService -
+                login details returned[410, 1, INCOMPLETE]
+2021-08-12 19:33:59 [http-nio-9192-exec-8] DEBUG c.l.e.OnboardingApplication -
+                Request ID 410
+2021-08-12 19:33:59 [http-nio-9192-exec-8] DEBUG c.l.e.OnboardingApplication -
+                Request Body EmployeeDemographicsVo(employeeId=410, employeeCode=, firstName=Indraneel, lastName=Indraneel, dob=2021-08-26, bloodGroup=B+ve, aadharNumber=435435433433, fatherName=Xyxzadasdsa, motherName=fjsfewdfsdfdsd, emailId=final@gmail.com, phoneNumber=9941597252, sslc=80.0, hsc=80.0, ug=8.0, gender=male, emergencyContactName=Fsdfdsfdsfdsdf, emergencyContactRelation=dfsdfdsfdsfdsfds, emergencyContactPhoneNumber=4354353413, password=, currentStatus=, rejectReason=, addressList=[Address(addressId=0, employeeCode=, type=present, flatName=sfadsfs, streetName=dfgfdgfd, area=dassadsad, state=Rum Cay, country=Bahamas The, city=chennaifdgdfg, pinCode=600324, mapCoordinates=jdfsdfdsfdske324), Address(addressId=0, employeeCode=, type=permanent, flatName=sfadsfs, streetName=dfgfdgfd, area=dassadsad, state=Rum Cay, country=Bahamas The, city=chennaifdgdfg, pinCode=600324, mapCoordinates=jdfsdfdsfdske324)], action=Submit)
+2021-08-12 19:34:58 [http-nio-9192-exec-9] DEBUG c.l.e.OnboardingApplication -
+                Request ID 410
+2021-08-12 19:34:58 [http-nio-9192-exec-9] DEBUG c.l.e.OnboardingApplication -
+                Request Body EmployeeDemographicsVo(employeeId=410, employeeCode=, firstName=Indraneel, lastName=Indraneel, dob=2021-08-26, bloodGroup=B+ve, aadharNumber=435433233433, fatherName=Xyxzadasdsa, motherName=fjsfewdfsdfdsd, emailId=final@gmail.com, phoneNumber=9941511252, sslc=80.0, hsc=80.0, ug=8.0, gender=male, emergencyContactName=Fsdfdsfdsfdsdf, emergencyContactRelation=dfsdfdsfdsfdsfds, emergencyContactPhoneNumber=4354853413, password=, currentStatus=, rejectReason=, addressList=[Address(addressId=0, employeeCode=, type=present, flatName=sfadsfs, streetName=dfgfdgfd, area=dassadsad, state=Rum Cay, country=Bahamas The, city=chennaifdgdfg, pinCode=600324, mapCoordinates=jdfsdfdsfdske324), Address(addressId=0, employeeCode=, type=permanent, flatName=sfadsfs, streetName=dfgfdgfd, area=dassadsad, state=Rum Cay, country=Bahamas The, city=chennaifdgdfg, pinCode=600324, mapCoordinates=jdfsdfdsfdske324)], action=Submit)
+2021-08-12 19:35:22 [http-nio-9192-exec-10] DEBUG c.l.e.OnboardingApplication -
+                Request ID 410
+2021-08-12 19:35:22 [http-nio-9192-exec-10] DEBUG c.l.e.OnboardingApplication -
+                Request Body EmployeeDemographicsVo(employeeId=410, employeeCode=, firstName=Indraneel, lastName=Indraneel, dob=2021-08-26, bloodGroup=B+ve, aadharNumber=435433233433, fatherName=Xyxzadasdsa, motherName=fjsfewdfsdfdsd, emailId=final@gmail.com, phoneNumber=9941511252, sslc=80.0, hsc=80.0, ug=8.0, gender=male, emergencyContactName=Fsdfdsfdsfdsdf, emergencyContactRelation=dfsdfdsfdsfdsfds, emergencyContactPhoneNumber=4354853413, password=, currentStatus=, rejectReason=, addressList=[Address(addressId=0, employeeCode=, type=present, flatName=sfadsfs, streetName=dfgfdgfd, area=dassadsad, state=Rum Cay, country=Bahamas The, city=chennaifdgdfg, pinCode=600324, mapCoordinates=jdfsdfdsfdske324), Address(addressId=0, employeeCode=, type=permanent, flatName=sfadsfs, streetName=dfgfdgfd, area=dassadsad, state=Rum Cay, country=Bahamas The, city=chennaifdgdfg, pinCode=600324, mapCoordinates=jdfsdfdsfdske324)], action=Submit)
+2021-08-12 19:35:27 [http-nio-9192-exec-2] DEBUG c.l.e.OnboardingApplication -
+                Request ID 410
+2021-08-12 19:35:27 [http-nio-9192-exec-2] DEBUG c.l.e.OnboardingApplication -
+                Request Body EmployeeDemographicsVo(employeeId=410, employeeCode=, firstName=Indraneel, lastName=Indraneel, dob=2021-08-26, bloodGroup=B+ve, aadharNumber=435433233433, fatherName=Xyxzadasdsa, motherName=fjsfewdfsdfdsd, emailId=final@gmail.com, phoneNumber=9941511252, sslc=80.0, hsc=80.0, ug=8.0, gender=male, emergencyContactName=Fsdfdsfdsfdsdf, emergencyContactRelation=dfsdfdsfdsfdsfds, emergencyContactPhoneNumber=4354853413, password=, currentStatus=, rejectReason=, addressList=[Address(addressId=0, employeeCode=, type=present, flatName=sfadsfs, streetName=dfgfdgfd, area=dassadsad, state=Rum Cay, country=Bahamas The, city=chennaifdgdfg, pinCode=600324, mapCoordinates=jdfsdfdsfdske324), Address(addressId=0, employeeCode=, type=permanent, flatName=sfadsfs, streetName=dfgfdgfd, area=dassadsad, state=Rum Cay, country=Bahamas The, city=chennaifdgdfg, pinCode=600324, mapCoordinates=jdfsdfdsfdske324)], action=Submit)
+2021-08-12 19:35:43 [http-nio-9192-exec-1] DEBUG c.l.e.OnboardingApplication -
+                Request ID 410
+2021-08-12 19:35:43 [http-nio-9192-exec-1] DEBUG c.l.e.OnboardingApplication -
+                Request Body EmployeeDemographicsVo(employeeId=410, employeeCode=, firstName=Indraneel, lastName=Indraneel, dob=2021-08-26, bloodGroup=B+ve, aadharNumber=435433233433, fatherName=Xyxzadasdsa, motherName=fjsfewdfsdfdsd, emailId=final@gmail.com, phoneNumber=9941511252, sslc=80.0, hsc=80.0, ug=8.0, gender=male, emergencyContactName=Fsdfdsfdsfdsdf, emergencyContactRelation=dfsdfdsfdsfdsfds, emergencyContactPhoneNumber=4354853413, password=, currentStatus=, rejectReason=, addressList=[Address(addressId=0, employeeCode=, type=present, flatName=sfadsfs, streetName=dfgfdgfd, area=dassadsad, state=Rum Cay, country=Bahamas The, city=chennaifdgdfg, pinCode=600324, mapCoordinates=jdfsdfdsfdske324), Address(addressId=0, employeeCode=, type=permanent, flatName=sfadsfs, streetName=dfgfdgfd, area=dassadsad, state=Rum Cay, country=Bahamas The, city=chennaifdgdfg, pinCode=600324, mapCoordinates=jdfsdfdsfdske324)], action=Save)
+2021-08-12 19:36:51 [http-nio-9192-exec-3] DEBUG c.l.e.OnboardingApplication -
+                Request ID 410
+2021-08-12 19:36:51 [http-nio-9192-exec-3] DEBUG c.l.e.OnboardingApplication -
+                Request Body EmployeeDemographicsVo(employeeId=410, employeeCode=, firstName=Indraneel, lastName=Indraneel, dob=2021-08-26, bloodGroup=B+ve, aadharNumber=435433233433, fatherName=Xyxzadasdsa, motherName=fjsfewdfsdfdsd, emailId=final@gmail.com, phoneNumber=9941511252, sslc=80.0, hsc=80.0, ug=8.0, gender=male, emergencyContactName=Fsdfdsfdsfdsdf, emergencyContactRelation=dfsdfdsfdsfdsfds, emergencyContactPhoneNumber=4354853413, password=, currentStatus=, rejectReason=, addressList=[Address(addressId=0, employeeCode=, type=present, flatName=sfadsfs, streetName=dfgfdgfd, area=dassadsad, state=Rum Cay, country=Bahamas The, city=chennaifdgdfg, pinCode=600324, mapCoordinates=jdfsdfdsfdske324), Address(addressId=0, employeeCode=, type=permanent, flatName=sfadsfs, streetName=dfgfdgfd, area=dassadsad, state=Rum Cay, country=Bahamas The, city=chennaifdgdfg, pinCode=600324, mapCoordinates=jdfsdfdsfdske324)], action=Submit)
+2021-08-12 19:37:01 [http-nio-9192-exec-4] DEBUG c.l.e.service.LoginService -
+                login details returned[410, 1, INCOMPLETE]
+2021-08-12 19:38:27 [http-nio-9192-exec-6] DEBUG c.l.e.OnboardingApplication -
+                Request ID 410
+2021-08-12 19:38:27 [http-nio-9192-exec-6] DEBUG c.l.e.OnboardingApplication -
+                Request Body EmployeeDemographicsVo(employeeId=410, employeeCode=, firstName=Indraneel, lastName=Suribhotla, dob=2021-08-21, bloodGroup=AB+ve, aadharNumber=435411132323, fatherName=Xyxzadasdsa, motherName=fjsfewdfsdfdsd, emailId=final1@gmail.com, phoneNumber=8735435435, sslc=80.0, hsc=80.0, ug=8.0, gender=male, emergencyContactName=Fsdfdsfdsfdsdf, emergencyContactRelation=dfsdfdsfdsfdsfds, emergencyContactPhoneNumber=4366653444, password=, currentStatus=, rejectReason=, addressList=[Address(addressId=0, employeeCode=, type=present, flatName=sfadsfs, streetName=dfgfdgfd, area=sdfdsf, state=Xacmaz, country=Azerbaijan, city=chennaifdgdfg, pinCode=600324, mapCoordinates=jdfsdfdsfdske3), Address(addressId=0, employeeCode=, type=permanent, flatName=sfadsfs, streetName=dfgfdgfd, area=sdfdsf, state=Xacmaz, country=Azerbaijan, city=chennaifdgdfg, pinCode=600324, mapCoordinates=jdfsdfdsfdske3)], action=Submit)
+2021-08-12 19:38:27 [http-nio-9192-exec-6] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee savedEmployeeDemographics(employeeId=410, employeeCode=LIS410, firstName=Indraneel, lastName=Suribhotla, dob=2021-08-21, bloodGroup=AB+ve, aadharNumber=435411132323, fatherName=Xyxzadasdsa, motherName=fjsfewdfsdfdsd, emailId=final1@gmail.com, phoneNumber=8735435435, sslc=80.0, hsc=80.0, ug=8.0, role=1, gender=male, emergencyContactName=Fsdfdsfdsfdsdf, emergencyContactRelation=dfsdfdsfdsfdsfds, emergencyContactPhoneNumber=4366653444, password=null, createdAt=2021-08-12 19:32:31.0, currentStatus=PENDING, rejectReason=Not Rejected Yet, addressList=[Address(addressId=424, employeeCode=LIS410, type=Present, flatName=sfadsfs, streetName=dfgfdgfd, area=sdfdsf, state=Xacmaz, country=Azerbaijan, city=chennaifdgdfg, pinCode=600324, mapCoordinates=jdfsdfdsfdske3), Address(addressId=425, employeeCode=LIS410, type=Permanent, flatName=sfadsfs, streetName=dfgfdgfd, area=sdfdsf, state=Xacmaz, country=Azerbaijan, city=chennaifdgdfg, pinCode=600324, mapCoordinates=jdfsdfdsfdske3)])
+2021-08-12 19:38:53 [http-nio-9192-exec-8] DEBUG c.l.e.service.LoginService -
+                login details returned[408, 3, INCOMPLETE]
+2021-08-12 19:38:53 [http-nio-9192-exec-9] DEBUG c.l.e.service.HrService -
+                Employees Data Fetched
+2021-08-12 19:39:20 [http-nio-9192-exec-10] DEBUG c.l.e.service.LoginService -
+                login details returned[410, 1, PENDING]
+2021-08-12 19:39:22 [http-nio-9192-exec-2] DEBUG c.l.e.service.LoginService -
+                login details returned[410, 1, PENDING]
+2021-08-12 19:39:37 [http-nio-9192-exec-1] DEBUG c.l.e.service.LoginService -
+                login details returned[410, 1, PENDING]
+2021-08-12 19:39:55 [http-nio-9192-exec-3] ERROR c.l.e.service.LoginService -
+                Employee With email id final1@gmail.com cant be accessed
+2021-08-12 19:39:57 [http-nio-9192-exec-4] ERROR c.l.e.service.LoginService -
+                Employee With email id final1@gmail.com cant be accessed
+2021-08-12 19:39:57 [http-nio-9192-exec-5] ERROR c.l.e.service.LoginService -
+                Employee With email id final1@gmail.com cant be accessed
+2021-08-12 19:40:16 [http-nio-9192-exec-6] DEBUG c.l.e.service.LoginService -
+                login details returned[410, 1, PENDING]
+2021-08-12 19:40:22 [http-nio-9192-exec-7] DEBUG c.l.e.service.LoginService -
+                login details returned[410, 1, PENDING]
+2021-08-12 19:51:33 [http-nio-9192-exec-9] DEBUG c.l.e.service.LoginService -
+                login details returned[408, 3, INCOMPLETE]
+2021-08-12 19:51:33 [http-nio-9192-exec-10] DEBUG c.l.e.service.HrService -
+                Employees Data Fetched
+2021-08-12 19:52:04 [http-nio-9192-exec-1] DEBUG c.l.e.service.LoginService -
+                login details returned[410, 1, PENDING]
+2021-08-12 19:52:05 [http-nio-9192-exec-3] DEBUG c.l.e.service.LoginService -
+                login details returned[410, 1, PENDING]
+2021-08-12 19:56:34 [main] INFO  c.l.e.OnboardingApplication -
+                Starting OnboardingApplication using Java 1.8.0_291 on LT-NB-163 with PID 19496 (C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy\target\classes started by indraneel.suribhotla in C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy)
+2021-08-12 19:56:34 [main] DEBUG c.l.e.OnboardingApplication -
+                Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-12 19:56:34 [main] INFO  c.l.e.OnboardingApplication -
+                No active profile set, falling back to default profiles: default
+2021-08-12 19:56:44 [main] INFO  c.l.e.OnboardingApplication -
+                Started OnboardingApplication in 10.388 seconds (JVM running for 11.424)
+2021-08-12 19:56:49 [http-nio-9192-exec-1] DEBUG c.l.e.service.LoginService -
+                login details returned[410, 1, PENDING]
+2021-08-12 20:01:51 [main] INFO  c.l.e.OnboardingApplication -
+                Starting OnboardingApplication using Java 1.8.0_291 on LT-NB-163 with PID 17028 (C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy\target\classes started by indraneel.suribhotla in C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy)
+2021-08-12 20:01:51 [main] DEBUG c.l.e.OnboardingApplication -
+                Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-12 20:01:51 [main] INFO  c.l.e.OnboardingApplication -
+                No active profile set, falling back to default profiles: default
+2021-08-12 20:02:00 [main] INFO  c.l.e.OnboardingApplication -
+                Started OnboardingApplication in 10.179 seconds (JVM running for 11.276)
+2021-08-12 20:02:11 [http-nio-9192-exec-1] DEBUG c.l.e.service.LoginService -
+                login details returned[410, 1, PENDING, updated user]
+2021-08-12 20:02:11 [http-nio-9192-exec-2] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID410
+2021-08-12 20:02:11 [http-nio-9192-exec-3] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID410
+2021-08-12 20:03:51 [http-nio-9192-exec-5] DEBUG c.l.e.OnboardingApplication -
+                Request ID 410
+2021-08-12 20:03:51 [http-nio-9192-exec-5] DEBUG c.l.e.OnboardingApplication -
+                Request Body EmployeeDemographicsVo(employeeId=410, employeeCode=, firstName=Indraneel, lastName=Suribhotla, dob=2021-08-21, bloodGroup=AB+ve, aadharNumber=435411132323, fatherName=Xyxzadasdsa, motherName=fjsfewdfsdfdsd, emailId=final1@gmail.com, phoneNumber=8735435435, sslc=80.0, hsc=80.0, ug=8.0, gender=male, emergencyContactName=Fsdfdsfdsfdsdf, emergencyContactRelation=dfsdfdsfdsfdsfds, emergencyContactPhoneNumber=4366653444, password=, currentStatus=, rejectReason=, addressList=[Address(addressId=0, employeeCode=, type=present, flatName=sfadsfs, streetName=fdsnfdsf, area=sdfdsf, state=, country=, city=dfdsfdsf, pinCode=600324, mapCoordinates=jdfsdfdsfdske3), Address(addressId=0, employeeCode=, type=permanent, flatName=sfadsfs, streetName=fdsnfdsf, area=sdfdsf, state=, country=, city=dfdsfdsf, pinCode=600324, mapCoordinates=jdfsdfdsfdske3)], action=Submit)
+2021-08-12 20:03:51 [http-nio-9192-exec-5] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee savedEmployeeDemographics(employeeId=410, employeeCode=LIS410, firstName=Indraneel, lastName=Suribhotla, dob=2021-08-21, bloodGroup=AB+ve, aadharNumber=435411132323, fatherName=Xyxzadasdsa, motherName=fjsfewdfsdfdsd, emailId=final1@gmail.com, phoneNumber=8735435435, sslc=80.0, hsc=80.0, ug=8.0, role=1, gender=male, emergencyContactName=Fsdfdsfdsfdsdf, emergencyContactRelation=dfsdfdsfdsfdsfds, emergencyContactPhoneNumber=4366653444, password=null, createdAt=2021-08-12 19:32:31.0, currentStatus=PENDING, rejectReason=Not Rejected Yet, addressList=[Address(addressId=426, employeeCode=LIS410, type=Present, flatName=sfadsfs, streetName=fdsnfdsf, area=sdfdsf, state=, country=, city=dfdsfdsf, pinCode=600324, mapCoordinates=jdfsdfdsfdske3), Address(addressId=427, employeeCode=LIS410, type=Permanent, flatName=sfadsfs, streetName=fdsnfdsf, area=sdfdsf, state=, country=, city=dfdsfdsf, pinCode=600324, mapCoordinates=jdfsdfdsfdske3)])
+2021-08-12 20:09:17 [http-nio-9192-exec-8] DEBUG c.l.e.OnboardingApplication -
+                Request ID 410
+2021-08-12 20:09:17 [http-nio-9192-exec-8] DEBUG c.l.e.OnboardingApplication -
+                Request Body EmployeeDemographicsVo(employeeId=410, employeeCode=, firstName=Indraneel, lastName=Suribhotla, dob=2021-08-21, bloodGroup=AB+ve, aadharNumber=435411132323, fatherName=Xyxzadasdsa, motherName=fjsfewdfsdfdsd, emailId=final1@gmail.com, phoneNumber=8735435435, sslc=80.0, hsc=80.0, ug=8.0, gender=male, emergencyContactName=Fsdfdsfdsfdsdf, emergencyContactRelation=dfsdfdsfdsfdsfds, emergencyContactPhoneNumber=4366653444, password=, currentStatus=, rejectReason=, addressList=[Address(addressId=0, employeeCode=, type=present, flatName=iphone, streetName=samsung, area=sdfdsf, state=, country=American Samoa, city=dfdsfdsf, pinCode=600324, mapCoordinates=jdfsdfdsfdske3), Address(addressId=0, employeeCode=, type=permanent, flatName=iphone, streetName=samsung, area=sdfdsf, state=Western, country=American Samoa, city=dfdsfdsf, pinCode=600324, mapCoordinates=jdfsdfdsfdske3)], action=Submit)
+2021-08-12 20:09:46 [http-nio-9192-exec-9] DEBUG c.l.e.OnboardingApplication -
+                Request ID 410
+2021-08-12 20:09:46 [http-nio-9192-exec-9] DEBUG c.l.e.OnboardingApplication -
+                Request Body EmployeeDemographicsVo(employeeId=410, employeeCode=, firstName=Indraneel, lastName=Suribhotla, dob=2021-08-21, bloodGroup=AB+ve, aadharNumber=435411132323, fatherName=Xyxzadasdsa, motherName=fjsfewdfsdfdsd, emailId=final1@gmail.com, phoneNumber=8735435435, sslc=80.0, hsc=80.0, ug=8.0, gender=male, emergencyContactName=Fsdfdsfdsfdsdf, emergencyContactRelation=dfsdfdsfdsfdsfds, emergencyContactPhoneNumber=4366653444, password=, currentStatus=, rejectReason=, addressList=[Address(addressId=0, employeeCode=, type=present, flatName=iphone, streetName=samsung, area=sdfdsf, state=, country=American Samoa, city=dfdsfdsf, pinCode=600324, mapCoordinates=jdfsdfdsfdske3), Address(addressId=0, employeeCode=, type=permanent, flatName=iphone, streetName=samsung, area=sdfdsf, state=Western, country=American Samoa, city=dfdsfdsf, pinCode=600324, mapCoordinates=jdfsdfdsfdske3)], action=Submit)
+2021-08-12 20:10:32 [http-nio-9192-exec-10] DEBUG c.l.e.service.LoginService -
+                login details returned[410, 1, PENDING, updated user]
+2021-08-12 20:10:32 [http-nio-9192-exec-1] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID410
+2021-08-12 20:10:32 [http-nio-9192-exec-2] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID410
+2021-08-12 20:10:56 [http-nio-9192-exec-3] DEBUG c.l.e.OnboardingApplication -
+                Request ID 410
+2021-08-12 20:10:56 [http-nio-9192-exec-3] DEBUG c.l.e.OnboardingApplication -
+                Request Body EmployeeDemographicsVo(employeeId=410, employeeCode=, firstName=Indraneel, lastName=Suribhotla, dob=2021-08-21, bloodGroup=AB+ve, aadharNumber=435411132323, fatherName=Xyxzadasdsa, motherName=fjsfewdfsdfdsd, emailId=final1@gmail.com, phoneNumber=8735435435, sslc=80.0, hsc=80.0, ug=8.0, gender=male, emergencyContactName=Fsdfdsfdsfdsdf, emergencyContactRelation=dfsdfdsfdsfdsfds, emergencyContactPhoneNumber=4366653444, password=, currentStatus=, rejectReason=, addressList=[Address(addressId=0, employeeCode=, type=present, flatName=sfadsfs, streetName=fdsnfdsf, area=sdfdsf, state=Styria, country=Austria, city=dfdsfdsf, pinCode=600324, mapCoordinates=jdfsdfdsfdske3), Address(addressId=0, employeeCode=, type=permanent, flatName=sfadsfs, streetName=fdsnfdsf, area=sdfdsf, state=Sirvan, country=Austria, city=dfdsfdsf, pinCode=600324, mapCoordinates=jdfsdfdsfdske3)], action=Submit)
+2021-08-12 20:10:56 [http-nio-9192-exec-3] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee savedEmployeeDemographics(employeeId=410, employeeCode=LIS410, firstName=Indraneel, lastName=Suribhotla, dob=2021-08-21, bloodGroup=AB+ve, aadharNumber=435411132323, fatherName=Xyxzadasdsa, motherName=fjsfewdfsdfdsd, emailId=final1@gmail.com, phoneNumber=8735435435, sslc=80.0, hsc=80.0, ug=8.0, role=1, gender=male, emergencyContactName=Fsdfdsfdsfdsdf, emergencyContactRelation=dfsdfdsfdsfdsfds, emergencyContactPhoneNumber=4366653444, password=null, createdAt=2021-08-12 19:32:31.0, currentStatus=PENDING, rejectReason=Not Rejected Yet, addressList=[Address(addressId=432, employeeCode=LIS410, type=Present, flatName=sfadsfs, streetName=fdsnfdsf, area=sdfdsf, state=Styria, country=Austria, city=dfdsfdsf, pinCode=600324, mapCoordinates=jdfsdfdsfdske3), Address(addressId=433, employeeCode=LIS410, type=Permanent, flatName=sfadsfs, streetName=fdsnfdsf, area=sdfdsf, state=Sirvan, country=Austria, city=dfdsfdsf, pinCode=600324, mapCoordinates=jdfsdfdsfdske3)])
+2021-08-12 20:18:04 [http-nio-9192-exec-5] DEBUG c.l.e.service.LoginService -
+                login details returned[410, 1, PENDING, updated user]
+2021-08-12 20:18:04 [http-nio-9192-exec-6] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID410
+2021-08-12 20:18:04 [http-nio-9192-exec-7] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID410
+2021-08-12 20:19:16 [http-nio-9192-exec-9] DEBUG c.l.e.OnboardingApplication -
+                Request ID 410
+2021-08-12 20:19:16 [http-nio-9192-exec-9] DEBUG c.l.e.OnboardingApplication -
+                Request Body EmployeeDemographicsVo(employeeId=410, employeeCode=, firstName=Indraneel, lastName=Suribhotla, dob=2021-08-21, bloodGroup=AB+ve, aadharNumber=435411132323, fatherName=Xyxzadasdsa, motherName=fjsfewdfsdfdsd, emailId=final1@gmail.com, phoneNumber=8735435435, sslc=80.0, hsc=80.0, ug=8.0, gender=male, emergencyContactName=Fsdfdsfdsfdsdf, emergencyContactRelation=dfsdfdsfdsfdsfds, emergencyContactPhoneNumber=4366653444, password=, currentStatus=, rejectReason=, addressList=[Address(addressId=0, employeeCode=, type=present, flatName=NEELEL, streetName=LELELLELELE, area=sdfdsf, state=, country=India, city=dfdsfdsf, pinCode=600324, mapCoordinates=jdfsdfdsfdske3), Address(addressId=0, employeeCode=, type=permanent, flatName=NEELEL, streetName=LELELLELELE, area=sdfdsf, state=, country=India, city=dfdsfdsf, pinCode=600324, mapCoordinates=jdfsdfdsfdske3)], action=Submit)
+2021-08-12 20:19:16 [http-nio-9192-exec-9] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee savedEmployeeDemographics(employeeId=410, employeeCode=LIS410, firstName=Indraneel, lastName=Suribhotla, dob=2021-08-21, bloodGroup=AB+ve, aadharNumber=435411132323, fatherName=Xyxzadasdsa, motherName=fjsfewdfsdfdsd, emailId=final1@gmail.com, phoneNumber=8735435435, sslc=80.0, hsc=80.0, ug=8.0, role=1, gender=male, emergencyContactName=Fsdfdsfdsfdsdf, emergencyContactRelation=dfsdfdsfdsfdsfds, emergencyContactPhoneNumber=4366653444, password=null, createdAt=2021-08-12 19:32:31.0, currentStatus=PENDING, rejectReason=Not Rejected Yet, addressList=[Address(addressId=434, employeeCode=LIS410, type=Present, flatName=NEELEL, streetName=LELELLELELE, area=sdfdsf, state=, country=India, city=dfdsfdsf, pinCode=600324, mapCoordinates=jdfsdfdsfdske3), Address(addressId=435, employeeCode=LIS410, type=Permanent, flatName=NEELEL, streetName=LELELLELELE, area=sdfdsf, state=, country=India, city=dfdsfdsf, pinCode=600324, mapCoordinates=jdfsdfdsfdske3)])
+2021-08-12 20:21:52 [http-nio-9192-exec-2] DEBUG c.l.e.service.LoginService -
+                login details returned[410, 1, PENDING, updated user]
+2021-08-12 20:21:52 [http-nio-9192-exec-3] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID410
+2021-08-12 20:21:52 [http-nio-9192-exec-4] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID410
+2021-08-12 20:22:24 [http-nio-9192-exec-5] DEBUG c.l.e.OnboardingApplication -
+                Request ID 410
+2021-08-12 20:22:24 [http-nio-9192-exec-5] DEBUG c.l.e.OnboardingApplication -
+                Request Body EmployeeDemographicsVo(employeeId=410, employeeCode=, firstName=Indraneel, lastName=Suribhotla, dob=2021-08-21, bloodGroup=AB+ve, aadharNumber=435411132323, fatherName=Xyxzadasdsa, motherName=fjsfewdfsdfdsd, emailId=final1@gmail.com, phoneNumber=8735435435, sslc=80.0, hsc=80.0, ug=8.0, gender=male, emergencyContactName=Fsdfdsfdsfdsdf, emergencyContactRelation=dfsdfdsfdsfdsfds, emergencyContactPhoneNumber=4366653444, password=, currentStatus=, rejectReason=, addressList=[Address(addressId=0, employeeCode=, type=present, flatName=NEELEL, streetName=LELELLELELE, area=sdfdsf, state=, country=Canada, city=dfdsfdsf, pinCode=600324, mapCoordinates=jdfsdfdsfdske3), Address(addressId=0, employeeCode=, type=permanent, flatName=NEELEL, streetName=LELELLELELE, area=sdfdsf, state=, country=Canada, city=dfdsfdsf, pinCode=600324, mapCoordinates=jdfsdfdsfdske3)], action=Submit)
+2021-08-12 20:22:24 [http-nio-9192-exec-5] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee savedEmployeeDemographics(employeeId=410, employeeCode=LIS410, firstName=Indraneel, lastName=Suribhotla, dob=2021-08-21, bloodGroup=AB+ve, aadharNumber=435411132323, fatherName=Xyxzadasdsa, motherName=fjsfewdfsdfdsd, emailId=final1@gmail.com, phoneNumber=8735435435, sslc=80.0, hsc=80.0, ug=8.0, role=1, gender=male, emergencyContactName=Fsdfdsfdsfdsdf, emergencyContactRelation=dfsdfdsfdsfdsfds, emergencyContactPhoneNumber=4366653444, password=null, createdAt=2021-08-12 19:32:31.0, currentStatus=PENDING, rejectReason=Not Rejected Yet, addressList=[Address(addressId=436, employeeCode=LIS410, type=Present, flatName=NEELEL, streetName=LELELLELELE, area=sdfdsf, state=, country=Canada, city=dfdsfdsf, pinCode=600324, mapCoordinates=jdfsdfdsfdske3), Address(addressId=437, employeeCode=LIS410, type=Permanent, flatName=NEELEL, streetName=LELELLELELE, area=sdfdsf, state=, country=Canada, city=dfdsfdsf, pinCode=600324, mapCoordinates=jdfsdfdsfdske3)])
+2021-08-12 20:22:57 [http-nio-9192-exec-6] DEBUG c.l.e.OnboardingApplication -
+                Request ID 410
+2021-08-12 20:22:57 [http-nio-9192-exec-6] DEBUG c.l.e.OnboardingApplication -
+                Request Body EmployeeDemographicsVo(employeeId=410, employeeCode=, firstName=Indraneel, lastName=Suribhotla, dob=2021-08-21, bloodGroup=AB+ve, aadharNumber=435411132323, fatherName=Xyxzadasdsa, motherName=fjsfewdfsdfdsd, emailId=final1@gmail.com, phoneNumber=8735435435, sslc=80.0, hsc=80.0, ug=8.0, gender=male, emergencyContactName=Fsdfdsfdsfdsdf, emergencyContactRelation=dfsdfdsfdsfdsfds, emergencyContactPhoneNumber=4366653444, password=, currentStatus=, rejectReason=, addressList=[Address(addressId=0, employeeCode=, type=present, flatName=NEELEL, streetName=LELELLELELE, area=sdfdsf, state=, country=Canada, city=dfdsfdsf, pinCode=600324, mapCoordinates=jdfsdfdsfdske3), Address(addressId=0, employeeCode=, type=permanent, flatName=NEELEL, streetName=LELELLELELE, area=sdfdsf, state=, country=Canada, city=dfdsfdsf, pinCode=600324, mapCoordinates=jdfsdfdsfdske3)], action=Submit)
+2021-08-12 20:22:57 [http-nio-9192-exec-6] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee savedEmployeeDemographics(employeeId=410, employeeCode=LIS410, firstName=Indraneel, lastName=Suribhotla, dob=2021-08-21, bloodGroup=AB+ve, aadharNumber=435411132323, fatherName=Xyxzadasdsa, motherName=fjsfewdfsdfdsd, emailId=final1@gmail.com, phoneNumber=8735435435, sslc=80.0, hsc=80.0, ug=8.0, role=1, gender=male, emergencyContactName=Fsdfdsfdsfdsdf, emergencyContactRelation=dfsdfdsfdsfdsfds, emergencyContactPhoneNumber=4366653444, password=null, createdAt=2021-08-12 19:32:31.0, currentStatus=PENDING, rejectReason=Not Rejected Yet, addressList=[Address(addressId=438, employeeCode=LIS410, type=Present, flatName=NEELEL, streetName=LELELLELELE, area=sdfdsf, state=, country=Canada, city=dfdsfdsf, pinCode=600324, mapCoordinates=jdfsdfdsfdske3), Address(addressId=439, employeeCode=LIS410, type=Permanent, flatName=NEELEL, streetName=LELELLELELE, area=sdfdsf, state=, country=Canada, city=dfdsfdsf, pinCode=600324, mapCoordinates=jdfsdfdsfdske3)])
+2021-08-12 20:23:00 [http-nio-9192-exec-7] DEBUG c.l.e.OnboardingApplication -
+                Request ID 410
+2021-08-12 20:23:00 [http-nio-9192-exec-7] DEBUG c.l.e.OnboardingApplication -
+                Request Body EmployeeDemographicsVo(employeeId=410, employeeCode=, firstName=Indraneel, lastName=Suribhotla, dob=2021-08-21, bloodGroup=AB+ve, aadharNumber=435411132323, fatherName=Xyxzadasdsa, motherName=fjsfewdfsdfdsd, emailId=final1@gmail.com, phoneNumber=8735435435, sslc=80.0, hsc=80.0, ug=8.0, gender=male, emergencyContactName=Fsdfdsfdsfdsdf, emergencyContactRelation=dfsdfdsfdsfdsfds, emergencyContactPhoneNumber=4366653444, password=, currentStatus=, rejectReason=, addressList=[Address(addressId=0, employeeCode=, type=present, flatName=NEELEL, streetName=LELELLELELE, area=sdfdsf, state=, country=Canada, city=dfdsfdsf, pinCode=600324, mapCoordinates=jdfsdfdsfdske3), Address(addressId=0, employeeCode=, type=permanent, flatName=NEELEL, streetName=LELELLELELE, area=sdfdsf, state=, country=Canada, city=dfdsfdsf, pinCode=600324, mapCoordinates=jdfsdfdsfdske3)], action=Submit)
+2021-08-12 20:23:00 [http-nio-9192-exec-7] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee savedEmployeeDemographics(employeeId=410, employeeCode=LIS410, firstName=Indraneel, lastName=Suribhotla, dob=2021-08-21, bloodGroup=AB+ve, aadharNumber=435411132323, fatherName=Xyxzadasdsa, motherName=fjsfewdfsdfdsd, emailId=final1@gmail.com, phoneNumber=8735435435, sslc=80.0, hsc=80.0, ug=8.0, role=1, gender=male, emergencyContactName=Fsdfdsfdsfdsdf, emergencyContactRelation=dfsdfdsfdsfdsfds, emergencyContactPhoneNumber=4366653444, password=null, createdAt=2021-08-12 19:32:31.0, currentStatus=PENDING, rejectReason=Not Rejected Yet, addressList=[Address(addressId=440, employeeCode=LIS410, type=Present, flatName=NEELEL, streetName=LELELLELELE, area=sdfdsf, state=, country=Canada, city=dfdsfdsf, pinCode=600324, mapCoordinates=jdfsdfdsfdske3), Address(addressId=441, employeeCode=LIS410, type=Permanent, flatName=NEELEL, streetName=LELELLELELE, area=sdfdsf, state=, country=Canada, city=dfdsfdsf, pinCode=600324, mapCoordinates=jdfsdfdsfdske3)])
+2021-08-12 23:22:33 [main] INFO  c.l.e.OnboardingApplication -
+                Starting OnboardingApplication using Java 1.8.0_291 on LT-NB-163 with PID 19360 (C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy\target\classes started by indraneel.suribhotla in C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy)
+2021-08-12 23:22:33 [main] DEBUG c.l.e.OnboardingApplication -
+                Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-12 23:22:33 [main] INFO  c.l.e.OnboardingApplication -
+                No active profile set, falling back to default profiles: default
+2021-08-12 23:22:41 [main] INFO  c.l.e.OnboardingApplication -
+                Started OnboardingApplication in 8.502 seconds (JVM running for 9.272)
+2021-08-12 23:27:13 [main] INFO  c.l.e.OnboardingApplication -
+                Starting OnboardingApplication using Java 1.8.0_291 on LT-NB-163 with PID 2268 (C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy\target\classes started by indraneel.suribhotla in C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy)
+2021-08-12 23:27:13 [main] DEBUG c.l.e.OnboardingApplication -
+                Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-12 23:27:13 [main] INFO  c.l.e.OnboardingApplication -
+                No active profile set, falling back to default profiles: default
+2021-08-12 23:27:21 [main] INFO  c.l.e.OnboardingApplication -
+                Started OnboardingApplication in 7.606 seconds (JVM running for 8.752)
+2021-08-12 23:27:46 [http-nio-9192-exec-3] ERROR c.l.e.service.LoginService -
+                Employee With email id neel316@gmail.com cant be accessed
+2021-08-12 23:30:34 [main] INFO  c.l.e.OnboardingApplication -
+                Starting OnboardingApplication using Java 1.8.0_291 on LT-NB-163 with PID 14636 (C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy\target\classes started by indraneel.suribhotla in C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy)
+2021-08-12 23:30:34 [main] DEBUG c.l.e.OnboardingApplication -
+                Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-12 23:30:34 [main] INFO  c.l.e.OnboardingApplication -
+                No active profile set, falling back to default profiles: default
+2021-08-12 23:30:41 [main] INFO  c.l.e.OnboardingApplication -
+                Started OnboardingApplication in 7.4 seconds (JVM running for 8.146)
+2021-08-12 23:31:03 [main] INFO  c.l.e.OnboardingApplication -
+                Starting OnboardingApplication using Java 1.8.0_291 on LT-NB-163 with PID 10284 (C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy\target\classes started by indraneel.suribhotla in C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy)
+2021-08-12 23:31:03 [main] DEBUG c.l.e.OnboardingApplication -
+                Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-12 23:31:03 [main] INFO  c.l.e.OnboardingApplication -
+                No active profile set, falling back to default profiles: default
+2021-08-12 23:31:10 [main] INFO  c.l.e.OnboardingApplication -
+                Started OnboardingApplication in 7.771 seconds (JVM running for 8.717)
+2021-08-12 23:35:24 [main] INFO  c.l.e.OnboardingApplication -
+                Starting OnboardingApplication using Java 1.8.0_291 on LT-NB-163 with PID 16792 (C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy\target\classes started by indraneel.suribhotla in C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy)
+2021-08-12 23:35:24 [main] DEBUG c.l.e.OnboardingApplication -
+                Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-12 23:35:24 [main] INFO  c.l.e.OnboardingApplication -
+                No active profile set, falling back to default profiles: default
+2021-08-12 23:35:32 [main] INFO  c.l.e.OnboardingApplication -
+                Started OnboardingApplication in 8.243 seconds (JVM running for 9.276)
+2021-08-12 23:36:05 [main] INFO  c.l.e.OnboardingApplication -
+                Starting OnboardingApplication using Java 1.8.0_291 on LT-NB-163 with PID 13068 (C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy\target\classes started by indraneel.suribhotla in C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy)
+2021-08-12 23:36:05 [main] DEBUG c.l.e.OnboardingApplication -
+                Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-12 23:36:05 [main] INFO  c.l.e.OnboardingApplication -
+                No active profile set, falling back to default profiles: default
+2021-08-12 23:36:13 [main] INFO  c.l.e.OnboardingApplication -
+                Started OnboardingApplication in 8.849 seconds (JVM running for 10.079)
+2021-08-12 23:37:00 [http-nio-9192-exec-1] DEBUG c.l.e.service.HrService -
+                Employees Data Fetched
+2021-08-12 23:37:00 [http-nio-9192-exec-1] DEBUG c.l.e.service.HrService -
+                Employees Data Fetched
+2021-08-12 23:37:00 [http-nio-9192-exec-1] DEBUG c.l.e.service.HrService -
+                Employee Demographics Saved in Repository 
+2021-08-12 23:37:00 [http-nio-9192-exec-1] DEBUG c.l.e.service.HrService -
+                User SavedUser(sno=444, emailId=neel316@gmail.com, password=Abc1235@fd, roleId=3, userId=EmployeeDemographics(employeeId=443, employeeCode=LIS1, firstName=Neel, lastName=Neel, dob=null, bloodGroup=null, aadharNumber=null, fatherName=null, motherName=null, emailId=neel316@gmail.com, phoneNumber=null, sslc=null, hsc=null, ug=null, role=3, gender=null, emergencyContactName=null, emergencyContactRelation=null, emergencyContactPhoneNumber=null, password=null, createdAt=2021-08-12 23:37:00.677, currentStatus=INCOMPLETE, rejectReason=null, addressList=null))
+2021-08-12 23:37:06 [http-nio-9192-exec-3] DEBUG c.l.e.service.LoginService -
+                login details returned[443, 3, INCOMPLETE]
+2021-08-12 23:37:41 [http-nio-9192-exec-5] DEBUG c.l.e.service.LoginService -
+                login details returned[443, 3, INCOMPLETE]
+2021-08-12 23:37:41 [http-nio-9192-exec-6] DEBUG c.l.e.service.HrService -
+                Employees Data Fetched
+2021-08-12 23:37:51 [http-nio-9192-exec-8] DEBUG c.l.e.service.HrService -
+                Getting all roles from database
+2021-08-12 23:39:09 [http-nio-9192-exec-2] DEBUG c.l.e.service.HrService -
+                Employees Data Fetched
+2021-08-12 23:39:11 [http-nio-9192-exec-3] DEBUG c.l.e.service.HrService -
+                Getting all roles from database
+2021-08-12 23:39:36 [http-nio-9192-exec-6] DEBUG c.l.e.service.HrService -
+                Employees Data Fetched
+2021-08-12 23:39:36 [http-nio-9192-exec-6] DEBUG c.l.e.service.HrService -
+                Employees Data Fetched
+2021-08-12 23:39:36 [http-nio-9192-exec-6] DEBUG c.l.e.service.HrService -
+                Employee Demographics Saved in Repository 
+2021-08-12 23:39:36 [http-nio-9192-exec-6] DEBUG c.l.e.service.HrService -
+                User SavedUser(sno=446, emailId=indraneel316@gmail.com, password=Abc1235@fd, roleId=1, userId=EmployeeDemographics(employeeId=445, employeeCode=LIS445, firstName=Indraneel, lastName=Indraneel, dob=null, bloodGroup=null, aadharNumber=null, fatherName=null, motherName=null, emailId=indraneel316@gmail.com, phoneNumber=null, sslc=null, hsc=null, ug=null, role=1, gender=null, emergencyContactName=null, emergencyContactRelation=null, emergencyContactPhoneNumber=null, password=null, createdAt=2021-08-12 23:39:36.074, currentStatus=INCOMPLETE, rejectReason=null, addressList=null))
+2021-08-12 23:39:58 [http-nio-9192-exec-8] DEBUG c.l.e.service.LoginService -
+                login details returned[445, 1, INCOMPLETE]
+2021-08-12 23:45:07 [main] INFO  c.l.e.OnboardingApplication -
+                Starting OnboardingApplication using Java 1.8.0_291 on LT-NB-163 with PID 15324 (C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy\target\classes started by indraneel.suribhotla in C:\Users\indraneel.suribhotla\Desktop\Employee Onboarding - Copy)
+2021-08-12 23:45:07 [main] DEBUG c.l.e.OnboardingApplication -
+                Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-12 23:45:07 [main] INFO  c.l.e.OnboardingApplication -
+                No active profile set, falling back to default profiles: default
+2021-08-12 23:45:22 [main] INFO  c.l.e.OnboardingApplication -
+                Started OnboardingApplication in 14.981 seconds (JVM running for 16.595)
+2021-08-12 23:45:43 [http-nio-9192-exec-1] DEBUG c.l.e.service.LoginService -
+                login details returned[445, 1, INCOMPLETE, new user]
+2021-08-12 23:47:59 [http-nio-9192-exec-4] DEBUG c.l.e.OnboardingApplication -
+                Request ID 445
+2021-08-12 23:47:59 [http-nio-9192-exec-4] DEBUG c.l.e.OnboardingApplication -
+                Request Body EmployeeDemographicsVo(employeeId=445, employeeCode=, firstName=Indraneel, lastName=Suribhotla, dob=2021-08-21, bloodGroup=O-ve, aadharNumber=435411139974, fatherName=Xyxzadasdsa, motherName=fjsfewdfsdfdsd, emailId=indraneel316@gmail.com, phoneNumber=9142596211, sslc=80.0, hsc=80.0, ug=8.0, gender=male, emergencyContactName=Fsdfdsfdsfdsdf, emergencyContactRelation=dfsdfdsfdsfdsfds, emergencyContactPhoneNumber=4354353656, password=, currentStatus=, rejectReason=, addressList=[Address(addressId=0, employeeCode=, type=present, flatName=dsfdsfdsf, streetName=cnkdfsdsf, area=sdfdsf, state=Melbourne, country=Australia, city=chennaifdgdfg, pinCode=600324, mapCoordinates=jdfsdfdsfdske324), Address(addressId=0, employeeCode=, type=permanent, flatName=hfdgfdg, streetName=dfgfdgfd, area=dsfdsfdsf, state=Melbourne, country=Australia, city=chennaiwq, pinCode=6000043, mapCoordinates=fdsfsdfds)], action=Save)
+2021-08-12 23:47:59 [http-nio-9192-exec-4] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee savedEmployeeDemographics(employeeId=445, employeeCode=LIS445, firstName=Indraneel, lastName=Suribhotla, dob=2021-08-21, bloodGroup=O-ve, aadharNumber=435411139974, fatherName=Xyxzadasdsa, motherName=fjsfewdfsdfdsd, emailId=indraneel316@gmail.com, phoneNumber=9142596211, sslc=80.0, hsc=80.0, ug=8.0, role=1, gender=male, emergencyContactName=Fsdfdsfdsfdsdf, emergencyContactRelation=dfsdfdsfdsfdsfds, emergencyContactPhoneNumber=4354353656, password=null, createdAt=2021-08-12 23:39:36.0, currentStatus=INCOMPLETE, rejectReason=Not Rejected Yet, addressList=[Address(addressId=447, employeeCode=LIS445, type=Present, flatName=dsfdsfdsf, streetName=cnkdfsdsf, area=sdfdsf, state=Melbourne, country=Australia, city=chennaifdgdfg, pinCode=600324, mapCoordinates=jdfsdfdsfdske324), Address(addressId=448, employeeCode=LIS445, type=Permanent, flatName=hfdgfdg, streetName=dfgfdgfd, area=dsfdsfdsf, state=Melbourne, country=Australia, city=chennaiwq, pinCode=6000043, mapCoordinates=fdsfsdfds)])
+2021-08-12 23:48:53 [http-nio-9192-exec-6] DEBUG c.l.e.service.LoginService -
+                login details returned[445, 1, INCOMPLETE, updated user]
+2021-08-12 23:48:53 [http-nio-9192-exec-7] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID445
+2021-08-12 23:48:53 [http-nio-9192-exec-8] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID445
+2021-08-12 23:53:25 [http-nio-9192-exec-1] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID445
+2021-08-12 23:53:25 [http-nio-9192-exec-2] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID445
+2021-08-12 23:58:15 [http-nio-9192-exec-4] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID445
+2021-08-12 23:58:15 [http-nio-9192-exec-5] DEBUG c.l.e.s.EmployeeDemographicsService -
+                Employee Object returned for ID445
